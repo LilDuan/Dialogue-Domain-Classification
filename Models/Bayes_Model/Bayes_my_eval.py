@@ -1,8 +1,9 @@
-import Bayes
+import Bayes_my
 from Models.Bayes_Model.utils import load_file
 
 from sklearn import metrics
 from sklearn.metrics import accuracy_score, precision_score, f1_score
+
 
 
 def evaluate(config):
