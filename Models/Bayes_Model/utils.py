@@ -9,7 +9,7 @@ from zhon.hanzi import punctuation
 from torch.utils.data import Dataset
 from collections import defaultdict
 
-from Models.DATASET_BASE import dataset_base
+from Models.BASE import dataset_base
 
 
 class My_Dataset(dataset_base):

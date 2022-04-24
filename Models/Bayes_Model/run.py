@@ -8,8 +8,10 @@ import re
 from nltk.corpus import stopwords
 from tqdm import tqdm
 
-from Models.Bayes_Model import Bayes, eval_bayes
-from Models.Bayes_Model.Bayes import config_Bayes
+from Models.Bayes_Model import Bayes_my, eval_bayes
+from Models.Bayes_Model.Bayes_my import config_Bayes
+
+from Models.Bayes_Model.Bayes_sklearn import bayes_Gaussian
 from Models.Bayes_Model.utils import *
 
 if __name__ == '__main__':
@@ -19,16 +21,17 @@ if __name__ == '__main__':
 
     print(f"---------当前数据集：{dataset}-----------")
     config = config_Bayes(dataset)
-    train_data = load_file(config.train_path)
-    test_data = load_file(config.test_path)
-    dev_data = load_file(config.dev_path)
-
-    #  构建语言模型
-    vocab_path = config.get_LM_path(dataset)
-    vocab = get_vocab(vocab_path, config, train_data)
-
-    Bayes_Model = Bayes.Model(config, vocab)
-    eval_bayes.evaluate(config)
+    # train_data = load_file(config.train_path)
+    # test_data = load_file(config.test_path)
+    # dev_data = load_file(config.dev_path)
+    #
+    # #  构建语言模型
+    # vocab_path = config.get_LM_path(dataset)
+    # vocab = get_vocab(vocab_path, config, train_data)
+    #
+    # Bayes_Model = Bayes.Model(config, vocab)
+    # eval_bayes.evaluate(config)
+    bayes_Gaussian(config)
 
 
 
