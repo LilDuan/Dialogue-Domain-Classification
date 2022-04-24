@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/CrossWOZ_vocab.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/class_1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/class_2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/class_3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/class_4.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Models/Bayes_Model/LM/CrossWOZ/class_5.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/vocab_CrossWOZ.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/data/vocab_CrossWOZ_bigram.txt" charset="GBK" />
+  </component>
+</project>

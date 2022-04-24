@@ -1,0 +1,2482 @@
+I want to make a restaurant reservation for 2 people at half past 11 in the morning.	13
+I am not in the mood to cook today. I want to eat out at a restaurant instead.	13
+I want to reserve a table at a restaurant, specifically Bourbon Steak.	13
+I would like to make a restaurant reservation at morning 11:15.	13
+I want to make a dinner reservation on March 5th.	13
+I want to make a reservation at a restaurant.	13
+I need to taste good food , i am very much eager to taste different food varieties from my normal routine food. Will you book a table at a restaurant?	13
+I want to go out to eat somewhere.	13
+I'd like to make a restaurant reservation.	13
+I wanna book a restaurant reservation on the 14th of March	13
+I want to book a table at a restaurant. Is there anything available at Uncle Yu's. I don't care what date.	13
+Can you book a table at a restaurant?	13
+I need help with a reservation in a restaurant.	13
+Can You help me in booking a table for four people at a restaurant?	13
+Please make a dinner reservation in Livermore.	13
+Can you help me reserve a table at a restaurant? I'd like to book at Royal Rangoon.	13
+I am making dinner plans with a friend and would like to book a table at a restaurant.	13
+I'd like to book a restaurant table.	13
+I'd like to find a table for a restaurant in SFO.	13
+I haven't eaten there for a while. Can you make a reservation for me at that restaurant for 12:30 pm.	13
+Can you make me a restaurant reservation?	13
+I would like to eat something in a restaurant on the 8th of this month.	13
+Hi i need a help, One of my friends coming to this city for meet me, I am looking to book a table at a restaurant for him?	13
+Today is my wedding anniversary and I want to book a table at a restaurant as a surprise to my wife.	13
+I have a plan to eat outside for which I need some nice restaurant. Please help me to book a table.	13
+Man, I'm starving. I'd love to have a hearty meal out tonight. Can you reserve me a restaurant at 6 in the evening?	13
+I'd like to make a restaurant reservation, can you help me?	13
+I want to book a table in a restaurant for 3 people	13
+Let's do some restaurant exploring right now. I need a nice, ambient dining spot for a business meeting. Let's get a reservation booked and checked off my to-do list, please.	13
+Could you help me search for a one way flight?	5
+I'm looking for one way flights out of Mexico City.	5
+I want to find a flight, I have zero bags to check in.	5
+I am searching for a one way flight.	5
+Can you help me find a one way flight, preferably on Delta Airlines.	5
+I'm looking for a one way flight with Alaska Airlines.	5
+Hi I'm travelling and I need a one way flight for 1.	5
+There is a meeting for me where I want reach by flight. Can you search an Economy class for one way?	5
+I need a one way flight from Phoenix to Portland.	5
+Book me a flight. Make it one-way on Delta Airlines	5
+Can you help me find a one way flight?	5
+I need to attend a business meeting and i wish to travel . Will you find a one way flight?	5
+I'd like to find a one way flight.	5
+I will be having a flight trip, and I am in need of a ticket for a one way flight to San Diego.	5
+I'm going to travel pretty soon. I'd like to find a one-way flight.	5
+Hi, could you help me search for a one-way Alaska Airlines flight?	5
+I'm planning a trip, can you help find me a flight?	5
+I need a one way flight on any airline. I have 0 bags for check in.	5
+Hi, could you help me search for one-way flights with Alaska Airlines?	5
+I have a plan for a short trip and I want to search for Economy class tickets in an one way flight. Please search for some flights.	5
+I need help booking a one way flight to Seattle.	5
+I'm looking for one way flights with 0 bags checked in.	5
+I'd like to find Economy class tickets for a one way flight.	5
+I would like to book a flight one way, just 1 seat.	5
+I need four seats for a one way flight on March 3rd.	5
+I need a one way flight.	5
+I have a travel plan on Friday next week for which I need to search for an one way flight, can you find one?	5
+I am searching for a one way flight.	5
+Hi i need a help, i am planning for a trip, I want to find a one way flight	5
+Hi, could you help me find a one way flight?	5
+Can you find a one way flight for me?	5
+I'm looking for a one way flight.	5
+Can you find me 2 seats on a one-way flight to San Diego?	5
+There is a business tour for me, can you fine a one way flight.	5
+I need a one way flight.	5
+I need to travel by plane for my next trip, look for tickets from Delta Airlines.	5
+I have a plan to travel on March 14th with 0 bags for which I need to search for an one way flight, do you help me?	5
+I've got a business trip coming up. I'm not sure how long I'll be there for, so can you look for a one-way flight for me?	5
+I need a ticket, whatever's best will do.	5
+pull up one way flights. Also note I will have zero bags.	5
+I want to find a one way flight.	5
+I'll leave soon and I need to book a one way flight for 1 passenger.	5
+Hello! I need assistance finding a one way flight.	5
+I'd like to search for a one-way flight.	5
+I need a one way flight to Seattle.	5
+Can you help me find a one way flight? I have zero bags to check, so I'll just be carrying on one.	5
+Hello! Can you help me find an Economy class ticket on a one way flight?	5
+Hello, could you help to search for some Premium Economy one way flights?	5
+I need a one way flight and I have 0 bags that need to be checked in.	5
+Can you find me a one way flight? I have 0 bags so no need to check any in	5
+I will be having a flight so I need a ticket for a one way flight, though keep in mind that I have zero bags to check in. I will start my journey on the 11th.	5
+I'm going on a trip. Can you get me a one-way flight?	5
+I'm looking for a one way flight	5
+Will you find me a one way flight on United Airlines?	5
+I'm looking for a one way flight.	5
+I need a one-way flight, preferably with American Airlines.	5
+I will be having a flight so I need a one way flight,	5
+Can you search for one-way flights for me?	5
+Can you search for one way flight?	5
+Will you find a one way flight with 0 bags to check in?	5
+I'm looking for a one way flight.	5
+I'm going on a trip. Can you search for a one-way flight?	5
+I want to search for an one way flight on 2nd of March, can you help me to find one?	5
+I want to find a one way flight.	5
+I need a one way flight.	5
+Find me please one way flight.	5
+I need a one-way flight.	5
+I have just completed my overseas project and want go back home. Could you please find me a one way flight?	5
+Can you help me find 3 tickets for a one way flight for the 2nd of March?	5
+Can you help me find a one way flight?	5
+Help me find a one way economy flight on the 6th of March	5
+Will you find me one way flights to Sydney?	5
+Can you help me find a one way flight?	5
+I need to attend a function in my cousin house. so i need to travel. Will you find a one way flight?	5
+I'm going on vacation pretty soon. Can you find me a one seat one-way flight?	5
+Can you help me find a one way flight?	5
+My long awaited vacation is coming up. I want 4 seats on a one way flight aboard Delta Airlines.	5
+I'm looking for a one way flight for an upcoming trip I have. Can you help?	5
+Can you help me find a one way United Airlines flight	5
+I want an Economy one-way flight	5
+I have a plan for a short trip for which I need to search for an one way flight.	5
+I have a plan for a short trip and I need to book flight for which I need your help, can you search for an one way flight?	5
+I want to find a one way flight from San Francisco, can you help me out?	5
+I have some long over due vacation time approaching and would like to book a one way flight.	5
+Can you get me some Premium Economy one-way tickets?	5
+I am looking for a one-way flight, please.	5
+I will be traveling soon with some friends. I need four one way flight tickets from any airline.	5
+Can you help me find a one way flight please	5
+I am interested in finding a one way flight.	5
+I need a one way flight leaving on the 12th of March.	5
+Please help me find 2 seats on a one way flight, with zero bags to check in.	5
+I want to find a one way economy ticket.	5
+Find me please one way flight to San Francisco.	5
+Find me a one way flight.	5
+Can you help me call a cab please?	14
+I want to call a cab	14
+Can you help me find a cab for 3 people?	14
+Call me a cab please. Going to Hop Creek Pub. It can be a shared ride.	14
+Can you please help me contact a cab?	14
+Hey I need a cab for 1 to Lers Ros Thai	14
+Can you help me get a cab for two heading to 18300 Carriage Drive	14
+Could you assist in hailing a cab for me?	14
+Can you help me call a cab for three people?	14
+I want to call a cab.	14
+Call me a cab for 1 person, please.	14
+I need a ride to 1900 University Ave #105	14
+Hey, could you book me a cab? I need to go to One Ferry building #35. I'm okay to share.	14
+Hi i need a help, Could you call a cab for 1 people?	14
+Hi i need a help, i am going for a ride with my friend, can you help me to call a cab?	14
+I need a cab ride and am fine with a shared cab.	14
+Can you get me a cab for one please?	14
+Will you call a cab for 1 person?	14
+I have to get a cab. Can you get me one for two people?	14
+Can you assist me in finding a cab please?	14
+My car broke down and I need to find a ride to 599 Railroad Avenue. Can you help me call a cab or a shared ride?	14
+Hi I need to go somewhere, please find me a cab.	14
+I want to book a cab for 4 people, help me to call the one.	14
+Can you help me call a cab?	14
+I need a taxi.	14
+Can you call a cab? Shared ride is fine.	14
+I want to call a cab.	14
+Can you call me a cab for three people?	14
+Hello! Can you help me get a cab for 3 people?	14
+I'm looking for cab, do you know how do it?	14
+I need a cab to 100 Van Ness Avenue ASAP!	14
+Could you help me to call a cab for one people. I'm okay with shared ride	14
+Can you help me get a cab?	14
+I want to visit Chili's Grill & Bar for which I need to call a cab, help me.	14
+I need to go to another city, so I want you to call me a cab.	14
+Hello! Can you help me get a cab?	14
+Help me please call a cab.	14
+I need some help calling a cab.	14
+I need a cab to go to 453 Fleming Avenue East	14
+Hello! Our family wish to see the National Gallery of Modern Art and we are looking for a cab for a ride. Please can you help me to book a cab?	14
+My car decided not to start today so can you find me a cab?	14
+There's a place I want to go, but walking there would be too tiring and time consuming. Can you get me a cab?	14
+I want to book a cab for one person and I need your help in this regard.	14
+I want to book a cab for 3 persons, can you find something?	14
+I have to meet up with some friends and I need a cab. I won't mind if it is a shared ride.	14
+I need a car in LA.	12
+Can you help me find a rental car?	12
+Can you help me find a rental car that I need till the 14th of March. I can pick it up at 4:30 in the evening.	12
+Can you help me find a rental car that I need to pick up at 14:30 and I'll need it till Friday next week.	12
+Hey there. Could you help me find a rental car?	12
+Can you book a car rental?	12
+I'd like to look for a rental vehicle that I can pick up around evening 7:30.	12
+I need a rental car.	12
+I need to find a rental car. I'll need to use it until the 7th of this month.	12
+I need a rental car until 3rd of March	12
+I need a rental car please.	12
+I am tired of cabs and ubers. I need a rental car.	12
+Do you help me get a rental car around 1:30 in the afternoon.	12
+I need a rental car on the 3rd of this month	12
+I'm looking for a rental car. Can you find one?	12
+I'm gonna need to book a rental car and I'll need it till the 12th.	12
+Hello! I am going to need a rental car. Can you help me reserve one?	12
+I want to find a medium-sized car for rent. please search for the one at pick up around 3 in the afternoon.	12
+I need to do some traveling. What rental cars are available?	12
+Can you help me locate a rental car that's available on the 1st at 5:15 in the evening?	12
+I'd like to rent a car, please.	12
+I want to find a rental car please	12
+I'd like to find a rental car.	12
+I need a rental car.	12
+I need a rental car.	12
+Along with my family i need to travel during holiday. so i need a rental car. would you find me a rental car?	12
+I need to find a Compact rental car. Can you help me?	12
+Hey! I'd like to rent a Standard car for three days. Do any cars available with you?	12
+I would like to rent a medium-sized car from Vancouver.	12
+I need a rental car.	12
+Can you help me find a rental car? I'll need to keep it until March 13th.	12
+Find me a rental car.	12
+Can you help find me a rental car for an upcoming business trip?	12
+I need to rent a car for my trip, can you help?	12
+I need a medium-sized rental car untii Thursday next week.	12
+I need to rent a car	12
+I want to look for rented compact car	12
+I need a rental car.	12
+Find me please a car that I can pick up around half past 1 in the afternoon.	12
+I need a bus for my planned trip.	2
+I need help finding a bus.	2
+Hmm. Trains and planes are too expensive. I should probably just take a bus. Can you find me one? I want to leave on the 3rd of this month.	2
+Help me in finding a bus	2
+I need a bus. Can you help me find please?	2
+I need a bus! Please find one.	2
+I need a bus!	2
+can you help me search for a bus?	2
+Can you find me a bus?	2
+I need help finding a bus.	2
+Could you find me a bus going to Sacramento?	2
+I need to buy a bus ticket from San Diego. Just one person	2
+Can you help me find a bus from Sacramento, CA on March 4th?	2
+I'd like to book a bus reservation.	2
+I need a bus to Long Beach, CA.	2
+I need to take a trip by bus so I need help to look for one.	2
+Can you find me a bus?	2
+I need to find a bus to Vegas to 4	2
+Can you find me a bus on the 9th.	2
+I need to get a bus ticket.	2
+Can you find me a bus?	2
+Can you help in searching bus for one people.	2
+I want you to find me a bus,if possible	2
+Please help me find a March 2nd bus to San Francisco.	2
+I would like to travel on a bus on the 14th of this month.	2
+I need to find a bus.	2
+I will be having a trip so I need your help to search for a bus.	2
+Get me a bus please.	2
+I'm planning a trip and need help looking at buses	2
+Can you please help me search for a bus? I am leaving on the 1st of this month and I need tickets for three people.	2
+We are out for a wedding party. Is there any bus for 3 people?	2
+Could you help me search for a bus for my upcoming trip?	2
+I need to travel somewhere. Please find me a bus for the 14th.	2
+I need to go on a short trip. Can you help me find four seats on a bus?	2
+I need a bus leaving from Fresno, CA.	2
+Can you help me find a bus that leaves on the 7th?	2
+Can you help me find a bus, I just need one ticket for the 8th of this month.	2
+I want to travel on a bus.	2
+I need to get a bus. I'll be leaving from Fresno, CA soon.	2
+Could you help me to find bus?	2
+I need a trip out of town. Can you assist me with finding a bus.	2
+Can you please help me find a bus leaving from LAX for two people?	2
+I'm looking for a but to LAX.	2
+I will be traveling so I am in need of finding a bus.	2
+What alarms do I have please?	0
+I want to see my alarms.	0
+Please show me the all my current alarms.	0
+Can you display my alarms? I really need to make sure I'm up early tomorrow.	0
+Can you show me all my active alarms?	0
+I want to know what alarms I have on.	0
+I thought I set an alarm? I can't afford to be late again... What alarms do I have set?	0
+What alarms do I have set at the moment?	0
+Tell me my alarms.	0
+Hello, could you tell me what alarms I have set?	0
+Please tell me which alarms are currently set.	0
+Can you please show me the current alarms I have set?	0
+Show me my alarms, please.	0
+What alarms do I currently have set?	0
+Get my alarm monitor.	0
+What alarms do I have set?	0
+Can you bring up my alarms, please?	0
+I want to check on my alarms.	0
+Please show me my alarms that are currently active.	0
+Can you show me my set alarms please?	0
+I want to see my alarms.	0
+What alarms do I have set?	0
+Can you show me my alarms?	0
+Please show me my alarms for the day.	0
+What are the alarm times?	0
+Can you display my alarms for me?	0
+Can you please say how are my alarms set?	0
+Can you show me the alarms I have?	0
+I have to wake up early. Show me my alarms.	0
+Please show me which alarms I currently have set.	0
+When are my alarms?	0
+Could you tell me what alarms I have on?	0
+I need to know how many alarms are there in my list? can you please show it now?	0
+What time are my alarms set for?	0
+Hey! I set a reminder in my clock. Please can you tell me at what time the alarm is set?	0
+Can you tell me what alarms I have saved?	0
+I want to know how many alarms are there in my list, can you show me	0
+Can you find me a psychologist in Pleasant Hill?	15
+Hello! Can you help me find a Psychologist in Santa Clara please?	15
+Could you find me a therapist in San Francisco?	15
+Can you help me find a therapist in Napa?	15
+Hello! I'm looking to make an appointment with a Psychiatrist in Santa Rosa. Can you help?	15
+I have the necessity to see a Psychiatrist.	15
+I want to find a therapist.	15
+Can you find a therapist in Mill Valley?	15
+Could you please find me a therapist?	15
+WOuld you find me a psychologist in Santa Rosa?	15
+Please search a therapist.I need a Psychologist.	15
+I am very emotionally troubled, so I need to find a therapist in Sebastopol.	15
+Could you help me locate a Psychologist in Oakland?	15
+Hi there! Could you help me find a therapist? Thank you!	15
+I need to sort out some recent issues,can you find a therapist for me?	15
+Find a therapist for me please? I need a Psychiatrist.	15
+Look up Therapists for me located in Campbell.	15
+Could you find me a therapist?	15
+I'm looking for a therapist.	15
+Could you find me a San Jose therapist?	15
+I need to find a therapist before I go crazy!	15
+Can you find a psychologist for me please?	15
+Can you please help me find a therapist?	15
+Can you help me find a therapist in Santa Clara.	15
+Hello! Can you help me find a therapist in Napa?	15
+I'd like to make an appointment. Please find me a therapist in San Rafael.	15
+Will you find me a therapist?	15
+I've been feeling depressed lately and want to see someone about it. Can you find me a Psychologist?	15
+Would you find a therapist for me?	15
+I'm after a therapist in Gilroy.	15
+Will you find me a therapist?	15
+I'm looking for a therapist near me.	15
+I am going absolutely crazy. I think I need a therapist. Can you find me a Psychologist in the area?	15
+This is starting to get really out of hand. Maybe I should go to a therapist? Can you search for one for me?	15
+Maybe I should get professional help. Can you look for a therapist nearby?	15
+Could you find me a family counselor?	15
+Can you please find a therapist for me?	15
+Find me a therapist please	15
+Hello! I'd like to find a therapist in Fremont. Can you help me?	15
+Please find a therapist for me. I need a Psychologist in Vallejo	15
+Can you help me find a therapist?	15
+Could you please find me a Family Counselor in Fremont?	15
+I need a therapist.	15
+Can you help me find a therapist?	15
+I want to check the weather in El Sobrante on the 6th of March 2019.	19
+Can you tell me what the weather is like in Nairobi, Kenya.	19
+Can you check the weather in Montara?	19
+Please check the weather.	19
+I wonder if it's gonna rain. Can you check the weather?	19
+I want to do weather check at San Anselmo	19
+Give me the weather update for the 1st of March 2019 please.	19
+I'm trying to decide what to do today. Can you tell me what the weather is suppose to be like?	19
+I want to check the weather for the 12th of March 2019.	19
+Could you check the weather in Alamo?	19
+Please check the weather in Discovery Bay	19
+I require to do weather check in San Jose on March 10th 2019	19
+What is the weather like in Bodega Bay.	19
+What's the weather forecast for March 9th 2019 in Seattle?	19
+Please tell me the weather forecast for March 4th.	19
+I have to do weather check in Moraga.	19
+I need to see the weather in Windsor	19
+Can you get me a weather report for Yountville California?	19
+What is the weather going to be like on the 10th of March 2019?	19
+I want to do weather check in San Mateo.	19
+I have a plan to make a trip but if weather is good i wish to travel. So will you find and check the weather on March 6th?	19
+Can you tell me the weather in KL?	19
+I would like to check the weather for the 5th of March 2019.	19
+I want to plan something outdoors, so I want to check the weather for March 4th.	19
+Check the weather in Olema, California for me.	19
+I need some quiet, outdoor harmony to balance out a wild day of back-to-back meetings. What kind of weather do you show for March 10th 2019, please?	19
+I'd like to check the weather report in Rutherford.	19
+Can you tell me what the weather will be like in San Bruno on the 8th of March 2019?	19
+Can you tell me if it is going to rain?	19
+I want to check the weather in Palo Alto.	19
+What is the expected weather in Inverness on March 10th?	19
+What is the weather forecast on March 4th in Alamo?	19
+What's the weather in Napa?	19
+I want to know what the weather will be like on March 2nd.	19
+Hi I'm having guests over to BBQ. Can you check the weather in Discovery Bay?	19
+I want to find a 2 bedroom apartment.	6
+Hey! I will be shifting to Sonoma County in California for my work. It would be great if you can find some nice apartment there?	6
+Can you help me find an apartment?	6
+I want to find an apartment please	6
+Can you help me find an apartment?	6
+I need to find somewhere to stay. Can you find me an apartment that allows pets?	6
+It's hard finding an apartment which allows pets... Can you look for one for me?	6
+I need to move out. Can you help me find an apartment?	6
+I would be leaving town soon and I need to find an apartment that has four bedrooms.	6
+I am looking for a 2 bedroom apartment in San Jose.	6
+I'm looking for an apartment.	6
+Can you help me find an apartment? I only need it to have one bathroom.	6
+I am looking for an apartment.	6
+I like to find an residence.	6
+I'm looking for an apartment.	6
+I'm looking to move into a new place. Can you find me an apartment?	6
+I'm looking for an apartment with 2 baths.	6
+I'm looking for apartments.	6
+Can you help me in finding an apartment?	6
+Find apartments with three baths please.	6
+Could you help me find an apartment?	6
+I will be traveling out of town soon and I need to find an apartment.	6
+I need help finding an apartment.	6
+I want to find a two bath apartment.	6
+I'm looking for a four bedroom apartment, can you help me?	6
+I need to find an apartment, but it needs to have 3 baths. I haven't been able to find much, but maybe you'll have more luck.	6
+I am looking for a 3 bathroom apartment.	6
+I am looking for an apartment.	6
+Can you get me a place to live?	6
+Can you help me look for apartments?	6
+I am looking for an apartment, and it needs to have 2 baths.	6
+I'm moving pretty soon, I'd like to find an apartment in Napa. Can you help me?	6
+I'd like to find an apartment.	6
+I need to move out of my parents house. Can you help me find an apartment?	6
+I will be changing the place I live so I want to find an apartment.	6
+I plan to relocate to another part of the city with my sister, and need help finding an apartment with 2 baths.	6
+I need your help searching for an apartment.	6
+I need to find an apartment	6
+I'm looking for an apartment.	6
+I want to search for an apartment, I need your help to find best one.	6
+I wish to search for an apartment.	6
+Hello, could you help me search an apartment?	6
+I want to find an apartment where pet are allowed.	6
+I am looking for an apartment?	6
+I would like to find an apartment.	6
+I'm going to be moving to Campbell pretty soon. Can you find me available apartments there?	6
+Can you help me find an apartment please.	6
+I'm looking to move to a new apartment. Can you find me a place with two bedrooms please?	6
+Can you help me search for an apartment?	6
+I'm getting evicted and I need to find a new apartment fast. Can you find me some options in San Jose? I'll need a unit with at least 2 baths.	6
+I'm looking to move to a new apartment. I'd like a place with two bedrooms.	6
+I would like an apartment with two bathrooms	6
+I need help finding an apartment.	6
+Find me an apartment	6
+I wish search for an apartment.	6
+I'm looking for an apartment, with three bedrooms.	6
+Find me an apartment with one bath.	6
+I need to find an apartment around Petaluma.	6
+Can you find me an apartment that allows pets?	6
+Help me find a 3 bed room apartment please	6
+I just got a new job in a new city and I need to find an apartment, can you help?	6
+My lease is up and I need to find a new apartment.	6
+Hello! Could you help me search for apartments with 2 baths?	6
+Help me find an apartment	6
+Could you help me locate an apartment with 1 bath?	6
+Can you help me find an apartment please?	6
+I need an apartment with 2 baths.	6
+Can you help me find an apartment?	6
+I'd like to look for a residence.	6
+I will be moving soon and I need a new apartment.	6
+I need to find an apartment in Fremont.	6
+I would like to find an apartment please.	6
+I'm soon relocating and need help finding an apartment.	6
+I am looking for an apartment. Can you help me?	6
+Can you give me a hand looking for apartments?	6
+I want to search for an apartment and please help me to get the best one.	6
+Hi, i need a help, i am planing to change my apartment, can you find a good apartment for me?	6
+I'm looking for an apartment. Can you help me?	6
+I am looking for an apartment please.	6
+Help me find an apartment please.	6
+Hello there. I'm looking for an apartment.	6
+Do you know of any good places to eat?	13
+Can you help me find a place to eat?	13
+I'm in the mood to eat something find me anything that have available serving Pick-up.	13
+I'm searching for a place to eat	13
+I feel like treating myself today. I plan to take myself out to a restaurant.	13
+I'm searching for a restaurant; get me one that serves pizza and pasta at San Fran.	13
+I need a place to eat	13
+I am feeling hungry, so I need to find a place to eat.	13
+I will be meeting with a friend and I need to find a place to eat.	13
+I am hungry!	13
+I want to find a place to eat	13
+We're famished and would like to find some place to eat, preferably something serving Diner.	13
+I want to eat somewhere.	13
+I'd like to find a restaurant.	13
+I want to go out to eat a barbecue place!	13
+Can you find me a place to eat?	13
+I want to find somewhere to eat.	13
+I want to eat out in San Fran.	13
+Help me please to find a place where I can serve Cambodian food.	13
+I want a Japanese food place.	13
+Where is a good dining place?	13
+I need somewhere to eat tonight. Can you help me find a place?	13
+I think it will be better to me if I eat outside once, and I need to search for a nice place to eat.	13
+I am looking for a restaurant.	13
+Can you find me a Moroccan restaurant?	13
+I'm looking for somewhere to eat vegetarian food.	13
+I'm searching for a restaurant; get me something from SF.	13
+Fine me a place to eat.	13
+I'm starving! I need to get myself some food.	13
+I'd like to find a place to eat.	13
+Could you help me find places to eat that serves breakfast?	13
+I would like to go to a restaurant.	13
+Hey! We have a business lunch outing this month and I would prefer to reserve table for the business lunch outing. Can you find some good hygienic dining?	13
+I need to find a play to eat	13
+I would like to eat in a restaurant.	13
+I want to go out to eat, please find a restaurant.	13
+I'm feeling peckish, can you find me somewhere to eat?	13
+I'd like to find a place to eat.	13
+My best friend is in town and I'd like to take him out for a meal. Please recommend some restaurants for me.	13
+I'd like to find a place to eat in Santa Rosa. Can you find a restaurant that serves Barbecue?	13
+I'm kinda hungry. Can you help me find a place where I can eat?	13
+I would like a restaurant in SF	13
+I will be gathering with some friends, what restaurants do you recommend?	13
+I am looking for a place to eat that serves Oriental.	13
+What's my balance?	1
+I'm not sure how much money I have, I'd like to check my account balance.	1
+I'd like to check my balance, please	1
+Hi, I just got my paycheck and would like to check my balance. Please look at my checking account.	1
+I'd like to check my account balance.	1
+I'd like to know my balance.	1
+Can you check my savings account balance?	1
+Hello! it's been a long time that I checked my balance in my account. Please can you tell me what is the balance in my checking account currently?	1
+Please check my current balance.	1
+Hey! Please may I know what is the balance in my checking account?	1
+I want to check the balance in my savings account, please.	1
+Check the balance of my checking account for me.	1
+Can you check my balance for me?	1
+I would like to check my balance.	1
+I want to check my account balance	1
+I want to check my balance please.	1
+I want to check my balance in my bank account for which I need your help.	1
+Hello! I am wondering if there is sufficient balance in my account for it's been long time that I checked my balance. Please can you check what's the balance in my savings account?	1
+I'd like to verify my balance.	1
+I'm paying some bills and I need to check my account balance.	1
+Please help me check the balance in my checking account.	1
+I wonder if my salary has gotten in. Check the balance on my savings account.	1
+I want to check the balance of my checking account please	1
+Please check the balance on my savings account.	1
+Can you check my savings account? I just want to know the balance.	1
+I need to check my account balance.	1
+I wonder if I have enough money in that account to do it? Can you check the balance of my account?	1
+I want to see how much I have in my account.	1
+I want to check my bank balance.	1
+Please check my balance in savings account.	1
+I'd like to verify my balance; show me my checking account.	1
+Will you check my balance?	1
+Hey there, can you help me check my bank account? I need to know how much I have in there. I might need to make a big purchase soon.	1
+Hello, I would like to check the balance of my checking account. Can you help me?	1
+I wish to check my checking account balance.	1
+I want to check my savings account balance.	1
+I'd like to check the balance of my checking account.	1
+Let me know how much is availablt in my checking account, please.	1
+Can you check my balance please	1
+I'm a bit worried that my finances are low. How much money is there in my savings account?	1
+I'd like to know my balance.	1
+Give me my bank balance.	1
+Can you tell me about some good attractions that are near me?	17
+I have a plan to go for a view point, can you search for an attractive one?	17
+Can you find some attractions in the area that I could take my kids to?	17
+I'm looking to go to an attraction	17
+Hey! Jack! Do you know any places of attraction to visit in Phoenix, AZ? for I am looking for a great place to spend my week end. Could you mind to find one for me?	17
+Hi i need a help, I am planning for a trip with my family, Can you show me some child-friendly attractions to visit?	17
+Give me some attractions to go and visit please.	17
+Find local attractions to see in SF please.	17
+Could you tell me some attractions to go to?	17
+Show me some child attractions please.	17
+I'd like to find some attractions to visit.	17
+I need help with some local attractions.	17
+I want to see some attractions.	17
+I'm looking for a new park to visit.	17
+Hey there, I plan to go out, could you show me some nice attractions where I can go?	17
+I'd like to hear about some attractions I can check out.	17
+We are looking for attractions that a child-friendly.	17
+I'd like to do something fun, please find me an attraction to see.	17
+Can you find me a museum to visit in London, UK?	17
+Can you find some attractions I can go to when I'm traveling? I know it's cheesy, but I really like tourist traps.	17
+Could you show me some attractions that I could visit? How about a Historical Landmark?	17
+I would like to visit an attraction	17
+I'm only in town for the week and would like to do something fun with the family. Can you show me some attractions to visit?	17
+Could you show me some attractions? I'd like to find one without an entry fee.	17
+Will you find me some attractions?	17
+Please help me find some attractions to visit.	17
+Good morning, please search free attractions that are similar to the Nature Preserve for me.	17
+I want to fin something fun to do in Fresno, CA	17
+Hey! We have moved to Australia very recently. Wish to see the places near by. Do you have any attractions to visit like a Museum, Art Gallery etc?	17
+Which attractions should I visit? I want something child-friendly in a Park	17
+I would like to visit an attraction	17
+I'm looking for some kid-friendly attractions to visit.	17
+I'm looking to go to an attraction	17
+Hello! Can you help me find some free things to do in the area?	17
+I am free for some days and wish to go outdoors. Are there any beautiful destinations to visit.	17
+Can you find me some free events or attractions to go to?	17
+i'm bored, find attractions to go see.	17
+I'm looking for something like a Performing Arts Venue to visit, can you help me?	17
+I'm going out with the family and need some child-friendly places to go. Can you help?	17
+ThisI is a great time for me to take in some historic sights on my vacation. I want to see some exhibitions where I can get a lot of bang for my buck, and I believe a Museum is just the place. Your involvement is kindly requested. Please see what museum you can find for me?	17
+Could you help me find some attractions I might like to visit?	17
+Can you find me some places to visit. I'm looking for a performing arts venue	17
+Hello! Can you help me find local attractions in Mexico City?	17
+Can you help me find some attractions to check out?	17
+I'm looking for some attractions to visit.	17
+I'd like to watch a movie.	9
+I feel like I want to watch a movie, so help me find one!	9
+Can you find me a movie to watch?	9
+I'd like to do something fun, please find some movies to see.	9
+I want to watch a Comic movie with Gordon Tanner.	9
+Can you find me a Romance movie to watch?	9
+Can you find me a drama movie to watch? One staring Taraji P. Henson	9
+I want to watch some nice movie now, can you search for me?	9
+I am looking for a movie to watch.	9
+Can you find me a movie to watch, directed by Morton DaCosta? I'm looking for a specific one.	9
+I am in mood of watching a Drama movie, so I want to find one.	9
+Can you find me a movie to watch?	9
+I'm having some friends over and need a movie to watch. Please find me some movies in the comic genre.	9
+I need to find a movie to watch	9
+I'd like to watch a movie	9
+I want to watch a movie but am having a hard time finding anything good in all these titles. Can you find me something that stars Jeff Harding?	9
+I need to utilize my day in a very calm way for that watching movie is a good choice. Will you find me a movie to watch?	9
+I'd like to watch a movie.	9
+Can you find me a movie directed by Claire Denis?	9
+Can you suggest a movie to me, I want to watch something.	9
+I'd like to watch a Gladys Holland movie	9
+Can you find a drama film for me?	9
+I'm up for watching a movie.	9
+Find me a movie directed by Anna Boden in the Adventure category.	9
+Hi i need a help, me and my friends are looking for movie to watch, we all are interested to watch patric knowles movies, could you find me his movies?	9
+I just want to relax tonight and watch a movie. Anything directed by Tina Gordon would be good.	9
+I'd like to watch a movie directed by Malik Bendjelloul	9
+What about a movie? Can you make some suggestions?	9
+I am looking for a movie directed by Elaine May to watch. Find something starring Rose Arrick.	9
+I want to watch a movie, preferably something by Jenny Gage. The romance genre would also work.	9
+Can you find a movie for me to watch that was directed by Michael Chaves?	9
+I want to watch a movie tonight, but I don't have any in mind.	9
+I'd like to find a movie.	9
+Me and my friend need a movie to watch later	9
+I am searching for a movie to watch.	9
+I want to watch a movie	9
+I'd like to see a movie, any genre is fine	9
+I want to find a movie.	9
+I need to find a movie, any type works	9
+Can you find me a movie? One that stars Michael Cumpsty.	9
+Can you find a movie for me with Shayn Solberg?	9
+I want to watch a movie.	9
+Can you find me a movie directed by Harry Elfont?	9
+I'd like to find a movie	9
+Find me movies staring Alan Arkin	9
+I have a lot of time to kill today. It's a great day to watch a movie. Any recommendations?	9
+Will you find me movies directed by Tom McCarthy starring Walter the Dog?	9
+I want to find a good movie to watch.	8
+Will you find me a movie?	8
+Hey! I have a day off. Do you have any good movies to watch?	8
+Hey, I want to watch a movie.	8
+I need to find a movie to watch.	8
+I'd like to watch a movie with Katharine Isabelle.	8
+I want to watch a movie.	8
+I want to find a film to watch	8
+I want to watch a movie with Alfred Hitchcock.	8
+There is nothing to do at home, so I guess I would just take in a movie.	8
+My mind is getting out,I think its time for watch a movie starred by Larry Jenkins and directed by Brian De Palma.	8
+I want to see a Movie.	8
+I feel like watching a Drama film. Maybe something by Alfred Hitchcock?	8
+Hello! I'd like to find an Action move to watch. Do you have any suggestions?	8
+Find me a movie to see.	8
+I'm bored, I'd like to watch a movie.	8
+I want to find a good movie.	8
+I want to find a movie to watch with Edd Osmond.	8
+Can you find me a movie directed by Alfred Hitchcock to watch?	8
+I am feeling bored. I want to see a Suspense movie. Any actor would be ok.	8
+Hey, can you help me find some movies? I want to rent a drama.	8
+Can you find me a movie?	8
+I'd like to watch a movie	8
+I am looking for a movie to watch. Could you help me find a Non-fiction movie?	8
+I had a hard day and I need to watch a funny movie to help me relax. Is there anything with Taylor Schilling in it?	8
+I want to watch a movie.	8
+Hello, could you help me search for movies directed by Tyler Perry?	8
+Are there any movies directed by Iain Softley and starred by Don Hewitt.?	8
+Can you find me a Drama move to watch that has Alida Baldari Calabria in it?	8
+Find Jenny Gage directed Romantic movies please.	8
+I'm looking for some movies - something with drama, I think.	8
+I'm searching for a flick.	8
+Find me a movie, please.	8
+Hi, I'm having friends over and need a movie to watch. Can you help me find one?	8
+I want to watch movie!	8
+Me and my boyfriend are planning a movie night, can you find us something to watch?	8
+I'd like to find a movie to watch.	8
+I would like to see a movie.	8
+I want to find a movie to watch, what director it is doesn't bother me.	8
+I would like to see a movie with Adriana Altaras	8
+Can you find me a fantasy movie to watch?	8
+I want to watch a movie online.	8
+Can you help me find some Drama films to watch	8
+I need help finding a Fantasy movie to watch.	8
+I am looking for a Drama kind of movie.	8
+I want to watch something, what is playing interesting for rent?	8
+I want to search for a hotel now, can you help me to find the nice one?	7
+I want a hotel! I am looking for a five star hotel in Vancouver, BC.	7
+I'm trying to find a hotel	7
+I'm going to be out of town with friends and I need need to find a hotel.	7
+I want three rooms at a hotel.	7
+I want to find a three star hotel.	7
+I need to find a hotel, but it's got to be a 3 star hotel. Nothing else will work.	7
+I need help with finding a hotel. I'm going to need one room.	7
+Can you find me one room in a two star hotel?	7
+Can you help me find a hotel?	7
+I'll be travelling. Can you help me find a hotel?	7
+I'm going to be away from home and need a place to stay. Can you find me a four star hotel?	7
+Can you find a hotel for me?	7
+I'm going to be on vacation soon and need a place to stay. Can you find me a hotel?	7
+Can you help me find a hotel?	7
+Can you help me find a hotel in ATL?	7
+Hi, I'm looking for a two star hotel.	7
+I am looking for 1 room at a 4 star hotel.	7
+I would like to find three rooms in a hotel.	7
+I want to book a room in a Hotel, can you find some nice hotels?	7
+I'm going to visit London soon. Can you recommend me some good hotels there?	7
+Hello, Dianny here! I am looking for a room in star hotels. Can you find me a good one?	7
+I need help finding a hotel.	7
+Hey system. Can you help me find a 3 star hotel?	7
+I would like a hotel in New York City	7
+I want to find a hotel to sleep in.	7
+I need a hotel room.	7
+Hi i need a help, of of my family member is coming here to meet me, i am looking to find an hotel, the hotel should have no restriction for smoking, looking for 1 star hotel	7
+Can you find a 3 -star hotel?	7
+I'm going to be going on a business trip and i'll need a book a hotel room. The thing is, in order to do my work I will need the hotel to have wifi.	7
+I am looking for a hotel room, would you be able to assist me with that?	7
+I need one hotel room.	7
+Hi i need a help, One of my friends is coming to here to meet me, i want to book 1 hotel room for him?	7
+I'm planning a trip, can you find me a hotel?	7
+I'm traveling soon and I need to search for a hotel. I'll need three rooms.	7
+I am looking for a hotel.	7
+I want to find a room in a hotel.	7
+For a meeting I need a room in a hotel. Can you find me one?	7
+I'm going away, I want to stay in a room at a hotel.	7
+I am looking for a hotel room in Nairobi, Kenya	7
+Please help me find one room in a hotel that owns wifi.	7
+Can you help me find 3 hotel rooms in Paris?	7
+I will need a place to sleep so I need to find a room in a hotel.	7
+Could you help me search for a hotel room? Thanks!	7
+I would like to find a one star hotel in New York.	7
+I want to find a hotel, even a 1 star hotel will do.	7
+I'd like to make a hotel reservation. Can you help me please?	7
+I need to find one hotel room for a business trip that I have to go on.	7
+I need to book a room in nice hotel, please search the best one for me.	7
+I want to book a hotel room for which I need your help.	7
+I need to find a hotel room.	7
+Can you find me a hotel room?	7
+I need to book one room in a hotel and I need your help.	7
+I want to book a Hotel room for which I need your help.	7
+Can you help me find a one star hotel room with wifi	7
+I'm going away, and want to find a room in a hotel.	7
+I'm in the mood for some good music, can you find me something?	10
+I need to hear some nice songs, Country songs will be better.	10
+I'm searching for music. There are plenty of wonderful music in the album Stories.	10
+I'm after some music!	10
+I'd like to hear some music, please find a song for me.	10
+Can you help me find a song? I enjoy country music.	10
+I want to find a song from about six years back.	10
+Can you find me a song?	10
+I want to hear a good song.	10
+I'd like to listen to some music. Please find me some pop music from two years ago.	10
+Can you find me some Electropop songs?	10
+Hi, i need a help, I love for listening songs, Could you find some songs for me?	10
+I am looking for songs.	10
+I'd like to listen to some music, please find a song for me.	10
+I'd like to find a song to listen to.	10
+I need to find some new music for my phone, any suggestions?	10
+I'm in the mood for music! Can you find me some pop?	10
+Help me find a song, something from '15 would work.	10
+I am looking for something to listen, recommend me some songs.	10
+Hello, Pretty, do you mind searching for some good Pop songs to me?	10
+My favorite is Marshmello. can you search some songs of three years back for me?	10
+I want to search for a song.	10
+I would like to listen to some music, maybe from the album Mercury Lane	10
+I want to listen to a song by Madilyn Bailey	10
+Will you find me a song?	10
+Can you find a song?	10
+I am looking for songs.	10
+Please help me find a song.	10
+Can you help me find a song? I like Zayn Malik.	10
+I am looking for songs. I like Carly Rae Jepsen.	10
+I am looking for songs, preferably Latin	10
+Please find songs for me.	10
+I'm searching for a song.	10
+Find me a Country song from 2018.	10
+Hi i need a help, I am interesting in listening songs, Can you find songs in the album Honky Tonk Time Machine?	10
+I feel like doing something, can you see if there's any cool events?	4
+I want to go out and have some fun. Can you find me something interesting to do for March 9th?	4
+Hi i need a help, i am Interested in events, Could you find some Music events for me?	4
+Hello! I'm interested in attending a concert on March 13th. Can you help me find something?	4
+I'm looking to attend a Music event. Can you find some?	4
+I need help finding local events.	4
+i wish to deviate my self from my normal routine work . so will you find me some interesting events?	4
+Could you help me finding some interesting events, please?	4
+Could you assist me in looking for interesting activities? I'm searching for activities near New York on the 14th of this month.	4
+Can you help me find a really awesome event.	4
+I want to go to an event.	4
+Hi there, could you help me search for some interesting events?	4
+Can you help me find a baseball match event?	4
+Can you find me some events?	4
+I need you to find me some events that appeal to me.	4
+Could you help me find some interesting events near me?	4
+I'm bored out of my mind, and would like help finding interesting events.	4
+I will be in San Francisco soon and I was wondering what there is interesting to do when I get there.	4
+I would like to find a really awesome event.	4
+I would like you to help me in finding an event around Toronto, Ontario for next wednesday.	4
+I am looking for some interesting events.	4
+Can you find me some events around the District of Columbia?	4
+Hi, I'd like to find some interesting events.	4
+Can you help me find an interesting event?	4
+I want to find some events on the 6th, can you help me to find some interesting events?	4
+Can you find some events? I'm looking for games.	4
+Hi, I need something to do. Can you look for events around Portland?	4
+I would like to find an interesting event	4
+Can you help me find an event going on around Chicago?	4
+Can you help me find some events?	4
+Hi i need a help, i am Interested in events, I like match events, Could you find some events for me around NYC?	4
+I'm looking for events around Los Angeles.	4
+Could you help me find an interesting event to attend?	4
+Hey, I'm so bored right now. Can you help me find an event or something?	4
+Please help me find some events	4
+I want to find some interesting events near London.	4
+Get me a fun event, ok?	4
+Will you find me some interesting events in and around?	4
+Please can you help me to search some interesting events?	4
+Is there any interesting events you can find for me?	4
+I feel like doing something fun today. Can you see if there's anything cool on?	4
+Will you find me some events around Phoenix, AZ?	4
+I am looking for music events.	4
+I'm looking to find some events.	4
+I am looking for some interesting events?	4
+I want to go out and do something. Do you know if there's anything fun going on?	4
+Find some interesting event for Sunday this week.	4
+Hello! How are you doing? I am wondering if you can find some interesting events for me?	4
+I am looking for events.	4
+Hey, can you help me find some events to go to?	4
+I'm looking for something to do this weekend. Can you help me find some interesting events?	4
+I am looking for some interesting events.	4
+I'm looking for Music events, something interesting.	4
+I'm looking for interesting events.	4
+Could you assist me in searching for interesting activities, specifically around LAX?	4
+I would like to go to a Concert on the 3rd of March.	4
+I just got my first paycheck and I want to do something to celebrate. Can you help me find some kind of an event or activity to do?	4
+I'd like to go out to see an interesting event in Stanford.	4
+I'm planning a day out, can you help me find something cool to go to?	4
+Can you find me some Match events on the 1st?	4
+Could you help in finding interesting events?	4
+I'm kind of bored, would you help me to find a Match event?	4
+I want to find some cool events.	4
+I'm looking for some interesting things to do around Los Angeles this Saturday, know of anything?	4
+Could you assist me in looking for interesting activities? I'm alright with any category.	4
+I like Match events: can you help me find an event around Philly?	4
+I want to find some events I prefer to be from Games.	4
+Are there interesting events around London, UK? I wish enjoy some events.	4
+Hey, I'm bored. Can you help me find some inter sting events?	4
+Can you look up some events for me?	4
+Please help me find some interesting events.	4
+Find me some interesting events.	4
+Hey! Do you have any events coming up between March 10-15, for I have a couple of days holidays and would prefer to watch if any good events coming up?	4
+I need 2 tickets for the bus leaving around 10:30.	2
+I'd like to get a bus ticket.	2
+Get me bus tickets.	2
+I need a reservation for the bus.	2
+can you reserve a bus from lax on the 7th of this month?	2
+I'm looking for a bus tickets for 2 around half past 1 in the afternoon.	2
+Hello. I want to reserve a bus for an upcoming trip.	2
+I need a bus in Sacramento for 10:15 am.	2
+I need to book a bus ride.	2
+I think it's better if you help me with the procedure of looking for a bus	2
+I need to make a bus reservation.	2
+I would like to reserve a bus.	2
+Will you reserve the bus?	2
+i need a bus reservation	2
+I would like to make a bus reservation.	2
+I need a bus leaving from Sacramento to SD leaving at half past 10 in the morning.	2
+Hi there, could you get me a bus reservation please?	2
+I would like to reserve a bus.	2
+I need a bus reservation. Please help me set this up.	2
+I'd like to reserve a bus from PHilly.	2
+Reserve for me please a bus.	2
+Hi there, could you search for some bus rides for me please?	2
+I need a bus next Wednesday leaving morning 9:45.	2
+I want to find a bus leaving from Los Angeles.	2
+Can you please get me 2 bus tickets from Las Vegas?	2
+I would like to reserve a bus to go to San Fran leaving at afternoon 1.	2
+I would like to reserve a bus.	2
+I need a bus for 2.	2
+Hi, could you get me a bus reservation please?	2
+I'll be going on a trip soon. Can you please help me book tickets for a bus that goes to Vegas?	2
+I'd like to get three bus tickets.	2
+I want a bus from Fresno, CA for the 5th of this month.	2
+I want a bus to go to LAX.	2
+I'm looking to take a trip. I need bus tickets	2
+I would like to reserve a bus.	2
+can you find me a bus for three people to leave from portland.	2
+I need a bus ticket to long beach on the 9th at morning 11:30	2
+I need a bus.	2
+I will be travelling soon to San Fran. I need to find a bus departing from Sacramento, CA.	2
+I like to reserve the bus	2
+I would like to reserve the bus.	2
+I'd like to reserve a bus ticket	2
+I would like to find a bus.	2
+I need to finish putting together plans for my trip. Can you look up buses for me?	2
+Will you reserved the bus?	2
+I'm thinking, if I get take a bus, I can sleep for a bit and rest up for the performance. Do you have bus information handy for leaving on the 1st of this month?	2
+Can you please book me bus tickets?	2
+Hi, I need a bus from Sacramento, CA please. I want to leave at one pm on the 7th.	2
+Hi there, could you get me a reservation for one please?	2
+I need a bus to Las Vegas for a party of 3 on the 11th of March.	2
+I need to find a bus home.	2
+I need some help finding a bus ticket. I will be leaving on the 7th.	2
+Hello. Can you find a bus for me?	2
+find a bus	2
+leaving 8th of this month	2
+Could you help me find a bus?	2
+Could you assist me in looking for a bus?	2
+can you find me a bus for 3 people leaving from lax	2
+I need a bus ticket.	2
+I would like bus tickets for one from fresno, ca.	2
+I need tickets for three persons on a bus heading from anaheim, CA to sacramento, ca.	2
+I'm looking for a bus ticket.	2
+I am wanting a bus, for 4 people leaving from las vegas next friday.	2
+I need to find a bus for four people on the 10th of March leaving from Los Angeles.	2
+I need to find a bus from Long Beach to San Francisco for three people.	2
+I am arranging a trip to visit some friends and I need to find a bus that can take me there	2
+I'm looking for a bus on the 12th of this month to Sacramento.	2
+can you find a bus for me	2
+can you help me find a bus?	2
+Hi! Can you help me find a bus?	2
+Can you help me find a bus for three people leaving on the 6th of this month?	2
+I would like to travel by bus since my car is currently at my mechanic. Can you please provide me with assistance in finding a bus?	2
+Please help me find a bus.	2
+Would you find me a bus?	2
+Can you help find me a bus?	2
+Would you help me find a bus from Las Vegas to Fresno on Tuesday next week?	2
+Would you help me find a bus?	2
+Please help me search for a bus.	2
+Is there a bus that goes from Anaheim to Sacramento? I'm planning to make that trip on the 8th if you can find anything.	2
+Would you find a bus for me?	2
+I'd like a bus ticket to Fresno, Ca for march 10th	2
+I'd like to book a bus	2
+I want you to help me find a bus.	2
+Can you help me search for a bus?	2
+Can you get me a bus?	2
+Can you help me find a bus?	2
+Can you find me a bus to go to New York on March 14th.	2
+I'm looking for a bus leaving on the 4th.	2
+help me find a bus	2
+I need to find a bus.	2
+I need a bus ride.	2
+Can you assist me with finding a bus?	2
+Will you help me search for a bus leaving the 12th of March to Anaheim.	2
+Could you help me find a bus to take?	2
+Would you help me find a bus?	2
+I need help finding a bus for four people, leaving Sacramento, CA on the 13th of March.	2
+I need to find a bus.	2
+Please help me find a bus to Sacramento, Ca.	2
+Would you help me search for a bus in Anaheim, CA?	2
+I will need to get a bus soon. Can you find something for me?	2
+I want to see a baseball game on the 13th of March.	4
+I need help finding something interesting to do?	4
+I'm looking for some interesting things to do.	4
+Can you find me a music event on 9th of this month? i prefer pop music	4
+I'm going to visit my brother and we'd like something interesting to do. I'm looking for some music events or shows, preferably electronica. I'll be there on the 9th of this month.	4
+Could you find me something to do?	4
+I am looking for something fun to do around Berkeley, on teh 5th of this month.	4
+Would you help find something interesting to do? I need something around Seattle, WA. I need Sports events.	4
+Can you check and see what interesting things I can do here?	4
+I have some vacation time coming up. Please search for something interesting for me to do.	4
+I'm bored. Can you find something interesting that's happening around here?	4
+Can you find me something fun to do?	4
+I'm bored and need something to do. Can you help me find something to do?	4
+I have a day off work and want to find something interesting to do. Can you see if there are any American Football games happening in Atlanta, GA on the 11th?	4
+I want something on the 8th and american football	4
+can you show me some cool things to do in philly?	4
+Can you help me find something fun to do on the 1st?	4
+Please find me some events to go to. I'd like to go to something with music on the 12th. Please search in the Belvedere area.	4
+I want you to find me interesting things to do in Toronto next Monday. I usually like attending Baseball events.	4
+I'm free on March 12th to do something interesting and fun. See what's happening in the Philly area on that date.	4
+I want to attend an electronica concert.	4
+Will you find Jazz Music events around LAX?	4
+Will you find events?	4
+Find me cool events to see.	4
+Would you help me find something interesting to do? I want something around NY on the 14th of this month. Music events are fun for me.	4
+I have some friends visiting from out of town and need to find something interesting for us to do. Can you see what's going on?	4
+Hey, do you know if there are any Football Games going on the day after tomorrow?	4
+I would like to find something fun to do.	4
+Find me something cool to do.	4
+Is there a concert scheduled for tomorrow?	4
+I'm looking for something to do. Can you find me an event with Music?	4
+I like sports march 6th	4
+Can you help me find some thing interesting to do? I am looking for something around Philly on March 11th.	4
+Hi, could you find me some interesting things I can do?	4
+Can you find me some good blues shows around here?	4
+Can you find me something fund to do	4
+Can you find me something interesting to do?	4
+Find me some cool things to do.	4
+Can you help me find any interesting Games happening in Toronto, Canada?	4
+Find me some cool events to see.	4
+I'm looking for interesting things to do.	4
+Will you assist me with finding something interesting to do?	4
+I'm bored. Can you help me find sports events to go to like baseball or something?	4
+I would like to do something interesting	4
+I'm looking for something interesting to do in New York City.	4
+I'm going on a date and need to find something interesting for us to do. Can you see what sports events are happening in Atlanta, GA on the 9th?	4
+I want to know what interesting are there to do. Can you help me find something?	4
+I'd like a fun event to attend, like a baseball game.	4
+Find me some interesting events.	4
+Can you please find me some interesting Baseball events in Phoenix?	4
+Could you find me a baseball event to go to?	4
+I want to find interesting things which I can do on 4th of March.	4
+I am so bored right now. That fun thing can I do today?	4
+Get me something fun to watch or do.	4
+Can you help me find something to do on the 9th in Philly?	4
+Can you find me something interesting to do on the 11th?	4
+Hello, can you help me find a fun sports event to attend in LA?	4
+I want you to find me some interesting things which I can do. I usually enjoy Games events.	4
+I'm looking for something fun like a Concert around San Francisco.	4
+I need some ideas of some fun interesting stuff to get into. What do you recommend?	4
+Will you find events?	4
+Show me some interesting things to do.	4
+I'm lloking for some games to go to in Anaheim, CA please on March 8th.	4
+Can you find music events? What about something blues on the 7th of this month.	4
+Will you get me something fun please?	4
+Could you help me find something fun to do?	4
+Find stuff to do.	4
+Hello, could you help me find an event to attend to in Vancouver, BC. Something around March 8th that is related to Blues.	4
+Hey what's a fun Idea for something to do?	4
+Hey computer, set me up with an interesting activity.	4
+I need help finding something cool to do.	4
+Could you find me something interesting to do?	4
+Will you find events?	4
+I'd like to find an interesting event to attend.	4
+Can you find me something to do? Like a music event?	4
+I would like to find an event. I like baseball games.	4
+Would you find me something interesting to do?	4
+Help me please to find something interesting to do.I would like to be some Music events on next Thursday.I enjoy Jazz.	4
+Any baseball events happening?	4
+something in chicago	4
+I'm looking for interesting things I can do, preferably Baseball related.	4
+music blues the 2nd	4
+I would like to find something interesting to do.	4
+Hi! I'm looking for something fun to do. Can you help?	4
+I want to find some entertaining events happening soon. I love Rock Music. Can you search for events like this?	4
+I would like an event in Washington D.C., I really like baseball games.	4
+I like baseball	4
+Can you find me some sports events that I can see on next Monday?	4
+I want to watch baseball in Anaheim on the 8th of March.	4
+I need something to do in NYC. I love Games events and really love baseball.	4
+Can you find me some interesting happening?	4
+I need some help finding some fun events. What can you recommend?	4
+Can you find me a Games event, like Basketball, in Washington?	4
+I'm looking for something interesting to do.	4
+I want something in sd	4
+I want to find some interesting things to do on day after tomorrow. I usuallt enjoy Music events, and more specifically I like Rock.	4
+I am so bored out of my skull.	4
+Please help me find something interesting to do.	4
+Find stuff to do.	4
+I want to watch some nice movies and I like the one which is particularly directed by Peter Farrelly.	9
+I would like to watch a movie?	9
+my life is boring to overcome i need to watch a movie. find a good movie to watch starring yi zhang?	9
+Can you find a movie for me? Preferably a Drama directed by Alfred Hitchcock.	9
+I want to find a movie please.	9
+Hello! Can you find me a movie starring David Albiero?	9
+I'm searching for a film to enjoy. Get me a film of the love story type that stars Walter Mudu and is directed by Tom McCarthy.	9
+I want to watch a movie that stars Byron Webster.	9
+I want to find a mystery movie.	9
+I would like to find a drama movie directed by Alfred Hitchcock and starring Peter Camlin.	9
+Can you help me find a good movie to watch?	9
+I want watch a drama movie. I want something directed by Nia DaCosta or starring Jeremy St. James.	9
+Find me a movie that stars Annemarie Lawless and is directed by Iain Softley.	9
+I would like to watch a Drama movie starring Gianluca Gobbi and that is directed by Matteo Garrone. I heard that's a great movie.	9
+Hey, can you get me a movie to watch? I'd like a suspense movie directed by Kevin Kolsch and starring Jacob Lemieux.	9
+Do you know any good Harry Elfont comic flicks? Something with Corinne Reilly would be great.	9
+I'm bored and would like to find a movie to watch.	9
+funny genre morton dacosta rand harper	9
+I need to find a drama movie to watch. I'd like something directed by Iain Softley and Starring Don Hewitt.	9
+I want to watch a movie.	9
+Hi, could you help me find a nice movie to watch please?	9
+I wanna watch a movie.	9
+Can you help me find a movie?	9
+I'd like to watch a movie.	9
+Hi there, could you help me find a movie to watch please?	9
+Hello! I'm interested in watching a movie.	9
+I want to find a movie that I can watch.	9
+I want a movie	9
+Hi there, are there any nice Comic movies I can watch which is directed my Harry Elfont and stars Carson Daly?	9
+something by tim burton	9
+Hi there, could you help me find a romantic movie directed by Tom McCarthy and featuring Brother Eden Douglas?	9
+find romance genre glenn walker harris jr.	9
+I'm looking to watch a movie with a friend. Can you find me any movies starring Khadijha Red Thunder?	9
+I want to watch a movie.	9
+I want to find a movie I can watch.	9
+I want to go watch a movie with some friends. Is there any Mystery movie directed by Brian De Palma? By any chance is there any movie also starring Craig Wasson?	9
+I'd like to watch a movie.	9
+I have a free day with nothing to do and was thinking about watching a movie. Can you find one for me?	9
+I like to watch some Adventure type of movies and I need your help to find the best one for me.	9
+I want to go watch a movie with some friends. Look for something to watch.	9
+I wish to search a movie to watch. Search something starring Irit Sheleg.	9
+i like to watch movies. find a good suspense genre movie starring lucas lavoie? i prefer movie directed by kevin kolsch.	9
+I'm looking for a film to watch	9
+I want to watch a movie in the animation genre.	9
+Hi, I'd like to find a movie to see.	9
+I'd like to see a movie.	9
+Iain softley mitchell nguyen-mccormick	9
+First, I need to find a good movie the family can watch while I take care of some other things. Would you help me with that, please?	9
+I'm looking for a movie to watch, something with Chuck Waters in it. Maybe a good mystery.	9
+I am searching for a film to enjoy.	9
+I want to find a movie.	9
+Hi, can you reccomend me a good movie? Preferably something in the drama genre.	9
+I am interested in finding movies I can watch.	8
+i need to free myself from office work to watch a movie. Find me some good movie to watch?	8
+Hello, I'm looking for a good movie to watch online. Please can you suggest me one?	8
+I want to watcha a movie	8
+I'm not feeling well and I want to stay home and watch a movie.	8
+I wish to search a movie to watch online. Drama movie will be great. Search something directed by Likarion Wainaina. Search something iwth Stycie Waweru in it.	8
+I need to find a romance directed by Jenny Gage and starring Amadeus Strobl.	8
+Hi, could you help me find some nice movies to watch please?	8
+I'm looking for advice, I need a movie title, something I could really enjoy	8
+I need suggestions for a movie to watch	8
+I'd like to watch a movie with Dan DiMaggio in it	8
+There is nothing good on TV right now so can you help me find a movie?	8
+I want to find a drama to watch starring Stephen Boxer and directed by Trevor Nunn.	8
+I am searching to watch a movie like Fantasy kind and i need something with Colin Farrell in that movie	8
+Can you find me a movie directed by Peter Farrelly to watch?	8
+I am bored and would like to watch a movie.	8
+I want a movie	8
+I am bored and would like to watch a movie.	8
+Will you find Sports movies?	8
+I am searching for a movie to watch	8
+Hi, can you get me a movie directed by Anna Boden?	8
+I'm looking for a Fantasy movie to watch directed by Neil Marshall and with Penelope Mitchell in it.	8
+I am searching for a comic movie to watch, which is directed by Harry Elfont and there should be Chris Lovick in it.	8
+I need to find a comic movie with Matt Walsh in it.	8
+I want to find an Adventure movie to watch.	8
+Can you find me a movie directed by Harry Elfont to watch?	8
+Hello, I'm trying to find a movie to watch, something comic like a Tyler Perry movie. I'd like to find something with Rome Flynn appearing in it.	8
+Could you help me find a movie to watch?	8
+I am searching for a comic movies to watch.	8
+I want to find an Anna Boden movie to watch.	8
+I'm looking to watch a Romantic movie tonight. It should have Doris Day and be directed by Michael Gordon.	8
+I'm home alone and would like help finding a movie to watch.	8
+i am free from office work i like to watch a movie. find some good movie starring with stuart lilley in that movie?	8
+During my free time, I plan to invite some friends over for a fun movie night. What movie would you recommend?	8
+Hello, Please can you help me to find some funny kind of moivies with Coral Browne in it?	8
+Can you suggest a popular movie?	8
+I want to find a movie which I can watch, and I want Thomas Martin to be in the movie.	8
+It's my day off and I'd like to watch a movie. I've always liked comic movies, especially ones that are directed by Peter Farrelly. Is there anything with Dimiter Marinov in it?	8
+I want a movie	8
+Will you find a movie?	8
+I want to watch a movie	8
+Can you please find me a movie to watch?	8
+drama movies johnny myers	8
+I need to find a movie to watch.	8
+My wife and I are staying in tonight and want to watch a movie. I'd like to find something starring Bruce Willis.	8
+I'd like to watch a movie	8
+I'm looking for a movie to watch, but I have specific details. Assistant, find an Adventure Movie directed by Ronald Neame with Leslie Nielsen starring in it.	8
+i need to enjoy my leisure time. find me some good movie to watch?	8
+I want to find a Harry Elfont movie to see.	8
+I need to find a Bob Hastings adventure movie.	8
+Help me search for a movie that I can watch.	8
+Can you find me a movie with Ex-Det. Sergt. Bishop directed by Alfred Hitchcock?	8
+Hi, can you help me find a movie?	9
+Do you have any recommendations for a movie I can watch?	9
+Hello! I haven't seen a good movie in quite some time. I'd like it if you could find me a James Badge Dale drama.	9
+I want to see a movie.	9
+I would like to watch a movie today. Do you have something directed by David Sandberg? i want an Adventure movie with Cooper Andrews on it.	9
+My friend is coming over later and I want to find a movie for us to watch. Can you see if there's a good drama movie playing right now?	9
+I am interested in finding a movie to watch. More precisely I would like to watch a movie directed by Nia DaCosta. I usually enjoy watching Drama genre movies. I would like for Charlie Ray Reid to be in the movie.	9
+I need a movie to watch.	9
+Can you help me look for a Drama movie I can watch.	9
+Thank goodness it's Friday night and I can finally unwind. Could you find me a movie to watch?	9
+I'd like to find a movie to watch.	9
+Is there a drama movie you can recommend to me, something that stars Phillip Langhorne?	9
+I'm looking for a movie to watch.	9
+I'm looking for a movie to watch.	9
+I would like to watch a movie.	9
+Hello! I'd like to see a movie. Can you help me find something?	9
+I'm hoping to find a movie to check out.	9
+I wanna watch a movie.	9
+I want to find a movie to watch.	9
+I am interested in finding a movie that I can watch.	9
+I would like to watch a movie.	9
+I want a movie	9
+I am looking for a drama directed by alfred hitchcock and starring with edward manouk	9
+Can you find me a Larry Jenkins movie to watch?	9
+Find me a drama move staring Amy Seimetz	9
+I have nothing to do today and haven't watched a movie in a while. Can you see if there are any good Romance movies available, especially anything directed by Tom McCarthy?	9
+I would like to see a romance movie directed by george sidney.	9
+Hello, I need help finding a movie to watch.	9
+I would like to see a movie starring serena altschul and directed by harry elfont.	9
+I would like a movie to watch.	9
+Help me find a movie to watch.	9
+I am interested in finding a movie I can watch.	9
+dean deblois please	9
+I am interested in finding a movie that I can watch. The movie I am looking for should be directed by Tim Burton, and for the movie to be a Fantasy genre. Also in the movie Frank Bourke should be starring.	9
+I want to go watch a movie. Is there anything directed by Jonathan Levine that stars Bob Odenkirk?	9
+I want to watch a movie directed by Tom McCarthy. Is there antyhing starring Michael Bennett?	9
+I would like to watch a movie directed by Claire Denis.	9
+I want to find a movie to watch.	9
+I want to watch a Movie.	9
+I'd like something to watch. Please find me an Adventure movie, starring Fred Sadoff.	9
+Can you find me a movie to watch?	9
+I haven't seen a movie in a while. Can you see what's on?	9
+I'd like to watch a movie right now. Can you find me anything good to watch?	8
+Hi there. I'd like to watch an Anna Katharina Schimrigk film.	8
+I haven't seen a movie in a while. Can you find me something that's either a comic movie, or that has Mahershala Ali in it, or anything directed by Peter Farrelly?	8
+I want to see a show that's funny and directed by Morton DaCosta.	8
+I want to watch a movie and escape reality.	8
+I'm looking for a funny movie directed by Harry Elfont.	8
+I want to see a movie directed by eric khoo.	8
+I'd like to watch a Drama movie, something directed by Simon Jaquemet and with Judith Hofmann.	8
+I want to go watch something with Seiko Matsuda in it. Is there any good movie playing?	8
+I want to find a movie that I can watch.	8
+I'd like to find a drama movie.	8
+I need to find a movie to watch.	8
+I would like to see a movie by peter farrelly.	8
+I would like to see a fantasy movie starring quentin kenihan and directed by george miller.	8
+I think I want to relax and watch a movie. Can you help me find something interesting?	8
+I'm looking for a movie?	8
+I am interested in finding a Romantic movie that I can watch.	8
+I like the director Iain Softley, can you find me a movie he directed?	8
+Are you also excellent in finding good movies?	8
+I've finished my work for today. Could you help me find Drama movies to watch?	8
+I would like to watch a movie.	8
+I'd like to watch a movie.	8
+do you feel like finding the right movie for me?	8
+I would like to watch a movie.	8
+Can you help me find a movie? I'm thinking of watching something by Martin Scorsese, something that has Buddy Guy in it.	8
+I would like to watch a movie.	8
+I want to find a movie to watch.	8
+I'd like to find a movie to see.	8
+I want to find a drama movie with Wendell Pierce to watch, can you help me?	8
+I would like to see a comedy movie with tone bell and directed by tina gordon.	8
+I want to go see a movie.	8
+Find movies.	8
+I want to watch a movie.	8
+I'm looking for a movie to watch.	8
+Hello. I want to watch a Jenny Gage film.	8
+Find movies by Morton DaCosta with Gregory Gaye.	8
+I want to go watch a movie. Is there anything playing?	8
+Are there any movies playing that are directed by Alfred Hitchcock?	8
+Find me a movie to watch	8
+I need to find a movie to watch.	8
+I'd like to watch a movie.	8
+I would like a movie directed by Alfred Hitchcock in the drama genre.	8
+Hi, I need my savings account balance.	1
+What's my balance for my account?	1
+I need to check the balance in my checking account.	1
+Will you check my balance?	1
+Can you please look into my account and tell me my balance?	1
+I want to check my savings balance please	1
+Check the balance in my checking account please.	1
+Will you please check my bank balance for me?	1
+Check the balance of my savings account.	1
+I need to make a purchase from a family member and would like to know the balance in my savings account.	1
+What is the balance in my account?	1
+check my balance	1
+Please check my balance.	1
+Hi, could you check my savings account balance please?	1
+I'm expecting payment for work I did with a friend. Please tell me my balance.	1
+I wish to check my balance. Please proceed with my savings account.	1
+I would like to know how much money I have in my checking account.	1
+I need to check my balance from my checking account, please	1
+I like to check my balance.	1
+I'd like to check my balance, please	1
+Can you please check the balance of my checking account?	1
+I want to know the balance I have.	1
+Hi there, could you help me check my balance please?	1
+What is my savings account balance.	1
+Can you check my checking account balance?	1
+I need to check the balance in my savings account.	1
+Can you check my balance of my checking account?	1
+Can you check the balance of my savings account?	1
+Will you check my balance?	1
+I want to check my balance for which I need your help.	1
+Can you tell me how much money I have in my account?	1
+Can you please check the balance of my checking account?	1
+Check the balance of my checking account.	1
+I like to check my checking account balance.	1
+I wish to check my balance.	1
+I wish to check my balance in savings account	1
+Can you check my checking account balance?	1
+i need some money. find the balance in my savings account?	1
+I want to check my account balance please, in my savings account	1
+I've got to pay some bills. Can you tell me my checking account balance?	1
+I want to check the balance amount in my account for which I need your help.	1
+Please check my balance.	1
+I need to check my checking account balance	1
+I wish to check my balance.	1
+What is my savings account balance?	1
+Can you tell me my balance	1
+Check for me please my balance.	1
+I would like to know my balance	1
+Please check the balance of my checking account.	1
+Before I pay my bills for the month can you check the balance in my checking account?	1
+I would like to check my balance.	1
+What's my checking account balance?	1
+find me find me a therapist	15
+I need to get a therapist. What psychologist do you recommend?	15
+Would you find a therapist for me please? I need a family counselor in St. Helena.	15
+I want you to find me a therapist in Pleasant Hill. I am interested in finding a Family Counselor.	15
+I need a therapist please in Pleasant Hill. I'd like a psychologist.	15
+I need to find a therapist for me. I need help. Please find a Psychiatrist.	15
+Could you please find me a therapist?	15
+I need to find a therapist, specifically a Psychiatrist.	15
+I am looking for a therapist in Castro Valley practicing as a Family Counselor	15
+I want you to find me a therapist in Santa Rosa. The therapist I am interested in should be a Family Counselor.	15
+Find therapists.	15
+I need you to look for a therapist.	15
+can you find me a therapist in mill valley?	15
+I need a Psychiatrist in Walnut Creek	15
+is there a therapist near me?	15
+Please help me find a therapist. I need a psychiatrist in Palo Alto.	15
+I need to see a therapist.	15
+Can you help me find a therapist please?	15
+Can you help me find a therapist?	15
+Please find me a therapist in Santa Rosa.	15
+I need help looking for a therapist.	15
+Would you find me a therapist please?	15
+Can you look for a therapist for me? I require a psychologist.	15
+I'm looking to find a Family Counselor.	15
+please find a therapist in oakland for me	15
+I'm looking for a therapist.	15
+Please help me find a therapist.	15
+Hello! I need to find a therapist. Can you assist me?	15
+I would like to schedule a visit with a therapist. Can you please search for a therapist?	15
+I want to look for a therapist.	15
+I need help finding a psychologist in campbell	15
+I need a therapist.	15
+I want to make a psychologist appointment please.	15
+Hello, can you find me a family counselor?	15
+I'm trying to find a therapist to go to.	15
+I need a family counselor in Los Gatos.	15
+Hello. I need to find a family counselor in Walnut Creek.	15
+I need help looking for a therapist.	15
+I'm looking for a Family Counselor in the Walnut Creek area.	15
+Could you look for a therapist for my sake?	15
+Can you help me find a therapist in Campbell?	15
+I am looking for a psychologist in Lafayette.	15
+I'm looking for a therapist please.	15
+can you find me a therapist	15
+find a therapist	15
+Please find a therapist for me.	15
+Can you find me a therapist?	15
+Hi, could you get me a therapist in the Martinez area?	15
+I'm looking to see a therapist. Can you please find me a Psychiatrist nearby?	15
+I need help looking for a therapist.	15
+I need a psychologist in Lafayette.	15
+I need to locate a therapist.	15
+Please find me a therapist?	15
+Is there a good Family Counselor in Concord?	15
+I'd like to find a therapist please.	15
+I want to find a rental car please	12
+Get me a rental car please.	12
+I'd like to explore the area and need help renting a car.	12
+Find me an intermediate car in Concord to get at afternoon 12:30.	12
+I want a rental car	12
+I want to rent a car, which I will need from March 4th till 7th of March, and that I will pick up from Concord.	12
+My car is getting the transmission replaced and I need a rental car in the mean time.	12
+Could you please help me to find a rental Compact car from Fremont at afternoon 1:30 on 8th of March.	12
+My family and I are going on vacation and we'll need a rental car.	12
+Could you help me to get a rental car?	12
+Could you help me to source a rental vehicle?	12
+I need a rental car.	12
+Get me a car in Fremont from the 8th of this month until the 9th of March.	12
+I will visit a friend and need to get a rental car for the trip.	12
+Im looking for car rental. I will pick it up from Fremont and need it till Thursday next week	12
+I want a rental	12
+I've got a business trip coming up and I really need to find a rental car.	12
+I want to find a Car for rent for which I need your help.	12
+I'm looking to rent a car.	12
+i am searching for a rental intermediate car and i need it on March 7th at 5:15 pm	12
+Hi, could you help me search for a spacious car please?	12
+I need a car to drive, how about renting it?	12
+I'd like to look for a a Compact car to rent.	12
+Please find me a rental car available for pick up from Fremont around morning 11:15. I'll be dropping it off on the 4th.	12
+Please help me find a rental car.	12
+Could you please help me to find a rental car up to March 12th.	12
+Find for me a rental car in Fremont because I need a car from this Sunday till 5th of this month.	12
+for some personal reasons, I need to rent a car from next tuesday at half past 7 in the evening	12
+I need a car on rent. Can you help me?	12
+Help me find a Compact car to rent. I'd like to pick it up at half past 3 in the afternoon and use it until the 7th of this month.	12
+san jose intermediate car wednesday next week	12
+I need a car to rent till the 12th	12
+I need to rent a car.	12
+I want to find a car for rent and I need the same from Fremont. Can you search for the one which is a full-size car for me?	12
+on the 13th of march I'll a car to drive	12
+Find for me a rental car.I will pick it up around 12:30 in the afternoon from Concord.	12
+I would like to pick up a rental car in fremont and use it till next thursday.	12
+Hello, Please can you find me a car to rent?	12
+Find for me please a rental car.	12
+I want to find a car for rent and I need your help to get the suitable one.	12
+I need to purchase a rental car from the 4th of March until the 8th.	12
+My car is currently in the shop and I need to find a rental car.	12
+I want to find a rental car that I can pick up on the 3rd at 12 pm	12
+My car is in the shop and I need to find a rental car.	12
+Hello, I need to rent a car.	12
+I need to reserve a seat on the bus.	2
+I'm looking for a bus leaving from Sacramento, CA.	2
+I need a bus to go to Fresno	2
+I need to reserve a bus?	2
+I'm looking for transportation to go to sacramento, ca. I was thinking about leaving from fresno, ca at morning 8:15	2
+I need a bus.	2
+I would like to make a booking for a bus.	2
+Hello. I want to reserve a bus.	2
+I need a bus going to Fresno.	2
+Hi, could you get me a bus reservation please?	2
+I need a bus for two people, on March 6th, to Fresno	2
+Can you get me bus ticket?	2
+I'm looking for some bus tickets.	2
+Please find me a bus	2
+I need two Los Angeles bound bus tickets please.	2
+I have a short trip coming up. Can you help me book a bus ticket?	2
+I'm taking a bus trip to visit some family and I need some tickets.	2
+I need a bus.	2
+I'm looking for a bus.	2
+I want to book bus tickets	2
+I would like to reserve a bus from Long Beach.	2
+I would like to reserve a bus.	2
+I would like to reserve a bus to go to San Francisco on the 11th of this month.	2
+I would like to make a bus reservation.	2
+I need to reserve a seat on the bus to Vegas.	2
+one person sacramento, ca	2
+I would like to reserve the bus to San Diego from Long Beach.	2
+Please reserve for me a bus.	2
+i am looking for a bus for two people from sacramento	2
+I would like to use the bus.	2
+Can you help me book bus tickets?	2
+I need to reserve a bus leaving at 12:15 in the afternoon.	2
+I would like to reserve a bus for 2 people to Fresno, CA.	2
+Can you find me a bus?	2
+I need to find a bus for three people going to Portland.	2
+I want to reserve a bus so I can go to Long Beach, CA. It's for 3 people and I want to leave at 5:15 pm.	2
+I'd like to get a bus ticket. I'm wanting to go to San Diego next Friday.	2
+Find a one way flight for me.	5
+Get me a one way flight to Las Vegas.	5
+I'd like to find a one way flight.	5
+Would you help me find a one way flight please?	5
+12th of march philadelphia two seats	5
+I am taking a trip, can you help me reserve my ticket please.	5
+I would like to find a one way flight. The number of bags I have to check in is zero. I would like three seats on a flight out of Seattle.	5
+I need a one way flight in economy on March 8th from San Diego.	5
+I want 12th of this month premium economy	5
+I need a flight, a premium economy ticket with Alaska Airlines and I have zero luggage.	5
+Hi, I need help booking a one way flight.	5
+zero bags to check in	5
+Find for me a one way flight.	5
+I need to find a one way flight.	5
+I'm looking for a one way flight.	5
+Hi, could you get me two seats on a Delta Airlines plane please?	5
+I need to find a one way flight.	5
+I need a one way flight.	5
+Can you find me a one way flight?	5
+I need a flight leaving Chicago, any class ticket, on 8th of this month.	5
+I'm looking for one way flights.	5
+Hi there, could you help me search for a one way flight please.	5
+I need a flight to Seattle, just 1 seat with zero luggage.	5
+I would like a one way flight. I have 0 bags for check in. Find me Economy class tickets.	5
+I want you to find me a one way flight.	5
+I have to look for one way flight	5
+Hello, I need help booking a one way flight from Washington on the 11th of March.	5
+Hello! I'd like an economy one-way flight via Delta Airlines that leaves on Thursday next week.	5
+Hi, could you get me a one way flight from Seattle on the 6th?	5
+I would like to book a one way flight.	5
+I would like to find a premium economy flight on Friday next week.	5
+I'm looking for a one way flight please.	5
+Find me two seats on a one way flight.	5
+I need a one way flight.	5
+delta airlines works	5
+I'd like to book a one way flight.	5
+one way flight	5
+Can you find me some one way flights?	5
+I'm looking for one way flights.	5
+one way flight please	5
+Get one way premium economy tickets.	5
+I need you to reserve my flight please.	5
+Will you find a one way flight?	5
+I would like to find a one way flight to San Francisco.	5
+I need an economy seat on a plane.	5
+I need to get a one way flight.	5
+I would like to find a one way flight please.	5
+Hi there, could you get me a one way flight please?	5
+Can you find me a one way flight?	5
+I want to go visit a friend soon. Please find a one way flight.	5
+Hi, could you help me search for a one way flight please?	5
+I'd like to look for a one way flight.	5
+Hi there, could you help me search for a one way flight please?	5
+Hello! Please can you help me to get a one way flight?	5
+Hi, could you help me search for a one way flight from Phoenix to San Diego? I have zero bags needed to check in.	5
+Hey, can you find me a one-way flight?	5
+Can you help me find a one way flight please?	5
+Hey, can you get me a one-way flight on Monday next week? Any airline is okay.	5
+Can you find me one way flight to from Seattle on the 12th?	5
+I want to search for a one way flight.	5
+I need a premium economy seats.	5
+I need a one way flight.	5
+zero bags in economy	5
+I am in a plan to go for a trip and for which I need to search for one-way flights. Can you search for the one which is suitable to me?	5
+I need to get a one way flight.	5
+I want a one way flight for the 8th of this month. I need three economy class tickets.	5
+I'd like a one way flight.	5
+Can you find one way flight for me?	5
+Find me 3 seats on a one way flight	5
+Can you check one way flights for next friday. I will only be needing one seat reserved.	5
+I will be visiting a friend and I need to find a one way flight to visit.	5
+I need a one way flight.	5
+four seats next friday toronto	5
+Hey, can you help me find a one way flight?	5
+one way flight	5
+I would like to find a one way flight please!	5
+I would like to find a one way flight out of Vancouver.	5
+I'm looking for a one way flight from Washington. I have zero bags to check and looking to go on the 1st.	5
+I'd like to look for a one way flight.	5
+I want to find a one way flight, please.	5
+I need a one way flight for 1. I have zero bags.	5
+I would like to find a one way flight. Any of the airlines you can find would work for me.	5
+I need a one way flight.	5
+I need to fly out next Monday. Could you get me one Premium Economy ticket.	5
+3 seats 10th of this month	5
+I'm looking for a one way flight.	5
+Hi, could you get me a one way economy class flight with American Airlines to London?	5
+I need a one way flight from Chicago.	5
+I got to find a flight to catch.	5
+I'm looking for a one way flight please.	5
+Hi, I will be travelling and need to find a one way flight for 1 person. I have 0 bags.	5
+I wish to find a one way Delta Airlines flight from Los Angeles to Portland.	5
+Can you help me find a one way flight	5
+Can you help me search for a one way flight?	5
+Can you help me find a one-way flight?	5
+Hi, could you get me a one way flight to Las Vegas on the 10th of this month please?	5
+las vegas economy southwest airlines	5
+I need a one way flight. I have zero bags that need to be checked.	5
+11th of this month in london, england	19
+I would like to check the weather on 8th of March.	19
+I would like to check the weather for the day after tomorrow in Paris, France.	19
+I'd like to check the weather on the 3rd of March.	19
+I must verify the weather on March 2nd in SFO	19
+What is the weather in London, England?	19
+Hello. I want to see what the weather is like on the 11th of this month.	19
+I must verify the weather on 4th of March in Portland.	19
+What is the weather like today in Nairobi Kenya?	19
+What is the weather like on the 13th of March?	19
+Hi, can you check the weather for me?	19
+I'd like to check the weather.	19
+I want to know how the weather will be in Philadelphia for March 12th?	19
+Can you check the weather on March 9th in NYC?	19
+Tell me the weather next Wednesday in San Francisco.	19
+Can you tell me what the weather will be like in San Diego on the 13th of March.	19
+I must verify the weather on March 5th.	19
+Hey, what'll the weather be like in Delhi on the 2nd of this month?	19
+I want the weather in Paris.	19
+Forecast for Vancouver, BC.	19
+What's the weather for the 7th of this month in Cotati?	19
+Check for me please the weather.	19
+Can you tell me what the weather forecast is for Paris next Thursday?	19
+Check the weather for me please.	19
+Tell me the weather in Chi-town on March 12th.	19
+los altos march 11th	19
+Check the forecast on the 3rd of March in San Lorenzo.	19
+I want to check on the weather for the 13th of this month.	19
+I must verify the weather on the 11th.	19
+Hi, could you help me check the weather in Portland, OR please?	19
+I need the weather in Paris on the 7th of March.	19
+I need to see what the weather is like in Paris.	19
+I need to know the expected weather in Seattle, WA on the 2nd of this month.	19
+Could you check the weather forecast for me for the day after tomorrow?	19
+Give me a weather report for Seattle, WA today.	19
+I want to know how the weather will be in San Diego on March 6th.	19
+What's the weather like on the 12th of this month?	19
+What's the weather going to be like on the 11th of March?	19
+I would like to find out the weather on the 11th of this month.	19
+Hi, could you help me check the weather in phoenix, AZ please?	19
+What's the weather going to be on the 3rd?	19
+What is the weather like?	19
+Can you check the weather for me?	19
+Hi! Can you tell me what the weather forecast is for Duncans Mills on the 11th?	19
+Can you find me the weather for the 1st of this month?	19
+I would like to know how the weather is in Nairobi, Kenya.	19
+I would like to check the weather in SD.	19
+Can you check the weather on next Friday for me?	19
+Can you find me a family counselor in San Jose?	15
+I want to find a therapist.	15
+I'm looking for a good therapist.	15
+Please find a therapist for me please.	15
+Can you find me a therapist please?	15
+Can you find me a therapist? I would like it to be a Family Counselor.	15
+Can you help me make an appointment with a therapist?	15
+I am going out of my mind. I need to see a therapist.	15
+Can you find a therapist for me? I need a psychologist at Mountain View.	15
+I don't think my anti depressants are working any more so I would like help finding a therapist.	15
+Can you find a therapist for me?	15
+I need a therapist, pull up some options for me please.	15
+Can you find me a therapist please?	15
+Can you help me find a therapist in Oakland?	15
+Hello, please can you help me to find a Psychologist in Novato?	15
+Can you help me find a Family Counselor in Gilroy please?	15
+My bipolar disorder is really getting bad. I need help finding a therapist.	15
+I need to find a therapist.	15
+Could you look for a therapist for my sake, please?	15
+Can you find me a therapist please?	15
+Can you find me a therapist to start seeing?	15
+Please help me to find a therapist.	15
+I want to find a therapist, please.	15
+Will you help me locate a therapist?	15
+i am not feeling well. find a therapist in santa rosa? i need a psychologist.	15
+Can you help me with finding a therapist in Oakland please?	15
+i am not feeling well . find a therapitst for me in san jose? i need a psychologist.	15
+Please can you help me to find a therapist who would be a Family Counselor?	15
+Hi there, could you find me a therapist please?	15
+Can you help me find a therapist?	15
+I'm in desperate need of some help. Can you find me a psychologist please.	15
+I need to find a therapist Which one would you recommend?	15
+Hi, i need a help, i am looking for a therapist, could you help me to find?	15
+Can you find a therapist in Oakland?	15
+Can you find me a therapist please?	15
+I need to see a therapist.	15
+Can you help me find a therapist?	15
+Hello, I wish to consult a good Psychiatrist in Palo Alto. Please can you find someone?	15
+Hello! Can you help me find a therapist in El Cerrito?	15
+Hello! Please can you help me to find a therapist in Redwood city?	15
+Can you find me a therapist, specifically a Psychologist?	15
+There has been a lot of tension in my house lately and would like to find a family counselor in San Jose.	15
+Can you find a Family Counselor in Los Gatos for me please?	15
+Please help me to find a therapist.	15
+I need a family counselor in Pleasant Hill.	15
+Can you find me a therapist? I am interested in a Psychiatrist.	15
+Find me a therapist	15
+Can you find me a therapist please	15
+I wanna find a therapist.	15
+Hi, I need a hotel please.	7
+Would you help me locate a hotel please?	7
+I'd like to find a hotel.	7
+I am looking for a three star hotel. I need 2 rooms.	7
+Could you assist me to find a hotel?	7
+I want to find a 4 star hotel.	7
+I want to find 1 room at a three star hotel.	7
+I am interested in finding a hotel.	7
+I looking for a hotel with two rooms. Smoking should be allowed.	7
+I need a hotel.	7
+I'd like assistant in finding a hotel please.	7
+Can you find me a hotel in New York?	7
+I am looking for a 4 star hotel.	7
+I need a hotel room.	7
+I'd like to find a hotel.	7
+I want to find a hotel.	7
+Can you help me find a hotel to stay at?	7
+I need to find a hotel, I need 1 room.	7
+I'm looking for a hotel.	7
+I want a hotel.	7
+I want to search for a four star hotel. I'm going to need 2 rooms and they should allow smoking.	7
+Assitant, please help me book a hotel room.	7
+I want to find a hotel.	7
+I'm going to be needing a hotel, can you help me book one please.	7
+I want to search for a four star hotel in NY.	7
+I am in need of assistance to find a hotel.	7
+I want to find a hotel.	7
+In need a hotel.	7
+Can you please help me search for a hotel for my upcoming vacation	7
+Would you help me find a hotel please?	7
+I need to find a hotel please.	7
+Hi there, could you find me some hotels please?	7
+I will be travelling soon and I would like to find a four star hotel with three available rooms	7
+I need to find a 4 star hotel in London.	7
+I need to look for a hotel, and need 1 room. I need a 3 star hotel in Chicago.	7
+I need to book 1 hotel room please and I'd like a four star hotel, if possible.	7
+Can you help me find a three star hotel?	7
+I am searching for a hotel.	7
+I want to find a hotel.	7
+Get me a hotel reservation.	7
+Hello. Can you find me 1 hotel room in SD?	7
+I need to book a hotel for my trip out of town. Can you help me find a suitable one?	7
+I'm getting hungry but I don't want to cook. I need to find a place to eat.	13
+Hi, are there any nice places I can eat at?	13
+Find me a place to eat.I want to be a restaurant tagged intermediate priced for price.	13
+Find me a place that serves Coffee & light bites.	13
+Hello! Please can you find me some good restaurant to have food?	13
+my mouth is watering for the outside food. find me a good place to eat?	13
+I'd like to eat out at a not very costly restaurant in Petaluma. Any suggestions?	13
+I'm trying to find a restaurant. I'd like someplace pricey.	13
+Find me somewhere to dine.	13
+I need to find a place to eat.	13
+I want pizza	13
+Help me find a good place to eat	13
+I'm looking for a cheap restaurant in Redwood City. I'd like to eat some Middle eastern food	13
+Find me a place that serves Veggie.	13
+Can you find me a place to eat?	13
+Looking for a place to eat	13
+I need a place to eat	13
+I need to find a place to eat.	13
+Hi, I want to find a Sichuan restaurant please.	13
+I want to find a place to eat in San Leandro that is cheap and has vegetarian options.	13
+I'm in the mood for some sichuan in san fran, find me something where I can sit and enjoy the food	13
+Where can I dine with a vegetarian choices on the menu?	13
+it's about time for me to start looking for a restaurant	13
+Please help me find a place to eat.	13
+I'd like to find a restaurant.	13
+I'm looking for a place to go eat	13
+I am searching for a place to eat which serves Ramen.	13
+Hello! Please can you help me to find some good restaurant in Napa?	13
+I need to find a place to eat.	13
+Hi, could you help me search for some nice places to eat please.	13
+I want to search for a nice restaurant.	13
+I am interested in finding a place where I can eat, and the place I am looking for should be considered as moderate regarding the price.	13
+I'm looking for a place to eat at any price range	13
+Find me a place where vegetarians can eat.	13
+Please help me to find restaurant in Gilroy.	13
+I'm searching for a restaurant.	13
+Find me an economical priced place that Serves southern food in Glen Ellen.	13
+Hey! Please can you find me some hotels to have food?	13
+Help me find a place to eat.	13
+I need to find a restaurant in SFO.	13
+I want to eat out side once and I need your help to find some nice places in Oakland. Can you find the best one which should supply Burrito type food.	13
+I am interested in finding a restaurant.	13
+Can you find me a restaurant that serves Asian Fusion that has moderate prices?	13
+I'm going out with some friends for dinner and I want to find a good restaurant.	13
+I refuse to cook, find me a restaurant	13
+Hi, could you help me search for places to eat please?	13
+I need to find a place to eat.	13
+Find me a restaurant tagged as intermediate priced.I love outdoor seating.	13
+i wish to eat outside rather than from home. find a good place to eat?	13
+Find me a place to eat	13
+I'd like a outdoor seating restaurant that serves pasta in san fran	13
+I have a plan to eat outside for once and I need your help to search for a good place to eat. Can you help me in this regard.	13
+I need to find a place to dine.	13
+Please help me find a reasonably priced restaurant.	13
+I will want a small car for rent and I will take it at night 8.	12
+I'd like a large rental car.	12
+I need a rental car. I want to go out on a vacation.	12
+I want a rental car.	12
+I'd like a spacious rental car on the 12th.	12
+I would like a rental car.	12
+I'd like to look for a spacious rental vehicle. I require it until the 3rd of this month.	12
+I'm trying to find a car to rent until the 13th of this month and I'd like to get around 8 o"clock in the night. I want something intermediate.	12
+I want to search for a car for rent and I need you help to find the best one for me.	12
+I need to get a rental car soon. Please find a crental car in Vancouver from the 6th of march. Available for pick up at afternoon 12:30.	12
+I want to go for a short ride and I need a rental car to go there. Can you search for the one suitable for me and for your information, I can adjust with any type of ride.	12
+I'd like a rental car.	12
+I need a rental car.	12
+I need a rental car from New York at around 15:00.	12
+I'm looking to pick up a rental car on the 10th of this month at 9:30 am.	12
+Hey, can you rent me a compact car in Washington?	12
+I need a small rental car.	12
+I need a rental car please.	12
+I need a rental car	12
+Get me a Compact car at nine am on March 13th.	12
+Hey, can you get me an intermediate rental car from the 12th of this month until the 14th?	12
+I'm going to attend a party on March 11th. Please help me find a rental car that I need from 10th of March.	12
+I'd like a rental car around 2 o"clock in the afternoon until March 7th.	12
+I'm looking for an intermediate rental car to pick up around afternoon 12.	12
+I need to find a compact rental car that I can pickup in NY on the 12th of March	12
+Can you help me find a rental car in San Fran? I need it for the 2nd of March at around 12:30.	12
+Hey, can you get me a rental car in NY until the 14th of March?	12
+I need to pick up a medium-sized rental car on Wednesday next week.	12
+I'd like to find an intermediate rental car.	12
+I need a rental car until March 12th in San Francisco. I want it on March 11th.	12
+I am going to need to find a rental car for the 14th of this month. Go ahead and pull up some options.	12
+I would like to find a rental car that I can use until the 13th of this month. I would like to pick it up in Portland on the 9th of March.	12
+I would like a rental vehicle, and want a Large car. I would like to pick it up from New York City and would like it around 6 o"clock in the evening.	12
+I have to rent a car please.	12
+Hi, I need an intermediate rental car on the 13th please.	12
+I would like to rent a vehicle until the 10th please.	12
+Can you help me find a rental car?	12
+I need to find a rental car.	12
+I need a small rental car next Wednesday picked up in Seattle, WA.	12
+I have a plan to go for a short ride and for which I need a small car from Washington for the pickup at 18:00.	12
+I want a car for renting which I will use until the 4th. I need to pick it up at afternoon 1:30. Find me something nice.	12
+I need to find a rental car on the 12th of March	12
+Can you find me a rental car that I can pick up around 9 am?	12
+I like to search a rental car.	12
+I would like an intermediate rental car from the day after tomorrow until the 4th of this month.	12
+Hey, can you find me a small car to rent? I need it from 13:45.	12
+I'm going to visit some old friends soon and need to find a medium-sized rental car I can pick up from SFO on the 3rd.	12
+Can you find me a compact rental car for the 7th of this month?	12
+I want a car for rent up to 13th of March. Can you help to search for the one which is suitable to me?	12
+Could you please help me to find a rental car.	12
+I need to find a rental car for a trip I'm going on soon. Can you find me any intermediate cars available to pickup in Portland, OR?	12
+Hey, can you find me a rental car?	12
+I'd like to book tickets for an event?	4
+I need tickets for 3 people. We want to attend an event in Philadelphia on the 7th of this month.	4
+will you reserve tickets for an event name is Dodgers Vs Marlins ? i need one ticket , the event should take place in and around LAX.	4
+Hi, could you reserve some event tickets please?	4
+I'd like to book tickets to the activity.	4
+I am looking for two tickets to shows or activities in the Phoenix, AZ area.	4
+Hi, I want to get tickets to the Long Beach Jazz Festival in Long Beach, CA.	4
+i need to book event tickets around San Diego	4
+Hi, could you get me 1 ticket to an event please?	4
+Get event tickets in New York.	4
+Reserve event tickets.	4
+I'm looking to reserve event tickets.	4
+I need to reserve 2 tickets to something in San Jose.	4
+Book me event tickets.	4
+I am looking for some New York events please, something on the 12th.	4
+I want to reserve tickets for the Tuxedo event on March 13th.	4
+I'm looking to reserve some tickets to an event on the 11th of this month in SF.	4
+I would like tickets to a show or game.	4
+Get event tickets.	4
+I'd like to buy tickets to an event.	4
+Hello. Can you get two tickets for me?	4
+Hi, I need help reserving event tickets.	4
+Get two tickets to Friends.	4
+I want to reserve 1 ticket on March 3rd at an event.	4
+I'd like to book tickets to an activity; specifically, I'd like three tickets for the Mets vs Braves activity near NY.	4
+I'd like to get tickets for LAFC vs Rapids in LA.	4
+I would like to reserve tickets to an event.	4
+I would like to buy tickets for an event.	4
+I'd like to reserve tickets for an event?	4
+I'd like to purchase some event tickets.	4
+I need to reserve tickets to an event.	4
+I would like four reservations to an event on March 13th.	4
+Find me event tickets for the 9th of this month.	4
+Will you find an event around Atlanta, GA on the 1st?	4
+I would like to book a ticket to an event.	4
+I wnat to reserve two tickets for an event in New York City.	4
+Hi, I'd like to purchase tickets for a concert.	4
+I need to buy tickets to an event, please.	4
+Reserve for me please a ticket to an event.	4
+Hi, I need to get tickets for an event.	4
+I need tickets to an event.	4
+I would like to reserve tickets for an event.	4
+I'd like to get tickets to an event in NYC.	4
+I'd like to attend an upcoming Golden Bears Vs Trojans game, and I think it would be best to buy the tickets now and make sure they're reserved.	4
+Can you get me some tickets?	4
+Help me reserve tickets to an event.	4
+Hello. I'd like to get tickets to an event on March 1st.	4
+Hi, could you get me tickets for an event please?	4
+I would like to reserve some tickets for an event.	4
+I need to find a hotel.	7
+I need to reserve 2 hotel rooms in Paris, France. Can you help me book this please.	7
+Hi! Can you help me find a hotel?	7
+Help me find a hotel.	7
+I am looking for 3 hotel rooms please.	7
+I need help finding a place to stay in the area. A hotel preferably.	7
+I'm going on a trip to London, England and need a hotel to book 3 rooms.	7
+I want to look to find a 5 star hotel in London, UK. I need one room.	7
+I want to find a hotel in Toronto, Ontario.	7
+Book me a hotel room.	7
+I would like to find a 3 star hotel.	7
+I need a hotel room.	7
+I am searching for a hotel.	7
+I'm searching for a hotel.	7
+I'm looking for hotel to book.	7
+I'm looking for 1 room at a four star hotel in Sydney.	7
+I need a four star hotel.	7
+I am interested in finding a hotel in London, England.	7
+I would like to find an hotel.	7
+I am interested in find a four star hotel. The hotel I am looking for should be in Chicago, and I want to have three rooms booked.	7
+I'd like to find a hotel in ATL that is three stars.	7
+I want a hotel	7
+I need to find a hotel.	7
+i have a plan to stay outside from home. find a good hotel to stay?i need one rooms.	7
+I need a hotel.	7
+I need to search for a hotel for my upcoming travel	7
+I want to find a hotel for which I want to have 3 rooms.	7
+Please find a hotel for me.	7
+Can you get me a hotel?	7
+I would like to find a hotel in London, UK.	7
+I need to find a three star hotel please in San Diego.	7
+I need to search for a 4 star hotel for my upcoming trip.	7
+I need to find 1 room at a hotel in Seattle.	7
+Find me 2 rooms in a hotel that allows smoking.	7
+Hello. Can you find me a three star, two room hotel for me?	7
+I want to find a hotel in London, England.	7
+I need a hotel.	7
+I would like to find a four star hotel.	7
+I'm trying to find hotels.	7
+Can you find me a hotel?	7
+Hi, could you help me search for a hotel room please?	7
+I need one room at a three star hotel. Pull up some options for me please.	7
+I want to find 1 hotel room in Paris, France please.	7
+I have an upcoming visit and I need to look for hotels in London, UK. I want to book 1 room	7
+Help me reserve 1 hotel room please.	7
+I will be going to visit a friend and need to find a place to stay. Find a good hotel please.	7
+I'm looking for a four star hotel in LA.	7
+I need to book a hotel.	7
+Hi, could you help me find a rental car for pickup at afternoon 1:30?	12
+I'm looking for a rental car.	12
+Hey, I need a rental car please.	12
+I need a rental car please in the afternoon 3:30 until the 12th of March.	12
+I'm looking for a rental car.	12
+I want to find a medium-sized rental car in Phoenix, Az.	12
+I need to rent a car.	12
+i need a rental car until March 14th, pickup Portland, OR.	12
+I need to find a rental car please	12
+Get me a rental car in London, England.	12
+I need a rental car for this evening 6:30.	12
+I need to find a rental car in Paris on the day after tomorrow.	12
+I want to go for a short ride for which I have to search for a rental car. Can you help me to find the suitable one.	12
+I'd like to look for a rental vehicle.	12
+I'd like to rent a large car until the 14th. I need it by eight pm.	12
+Can you help me search for a rental car? I will need it while out of town.	12
+I'd like to search for a rental vehicle, which I require until March 10th.	12
+Hey, can you get me a rental car in San Francisco on the 2nd?	12
+Book me a rental car.	12
+I need a rental car in Sacramento, CA at 16:30.	12
+I'm going to be needing a rental car. Set up a reservation for me please.	12
+I need to find a rental car please.	12
+I need a rental car on the 4th of March at 10:30 am please.	12
+Hi, can you help me find a rental car?	12
+I would like help finding a rental car.	12
+Can you please help me find a rental car for an upcoming trip?	12
+I want to find a rental car on the 10th till the 12th of March from Sacramento	12
+I'd like to rent a car.	12
+I'd like a rental car.	12
+I'm looking for a rental car at 5 o"clock in the evening until the 9th.	12
+Can you find me a rental car?	12
+I have to rent a car please.	12
+Can you find me a rental car on the 2nd of this month until the 9th of March?	12
+I need a rental car on Sunday this week at about 3:30 in the afternoon. I want to return it on the 9th of March.	12
+Can you find a rental car for me?	12
+Hi there, could you help me get a rental car please?	12
+I want to find a rental car from the 2nd of this month till the 5th of this month	12
+I will need a car soon. Can you find a rental car?	12
+Find me a rental car.	12
+I'd like to look for a rental vehicle.	12
+I would like to find a rental car. I need it from March 3rd, and I prefer intermediate cars. I would like it from Delhi, India.	12
+Hi there, could you get me a rental car for use this Sunday at 10:30 am?	12
+I want a rental car for the 1st of march at 13:30 till the 2nd of march.	12
+I need a medium-sized rental car on March 4th.	12
+I would need a large rental car on March 8th in Phoenix, AZ.	12
+Hey, I need a rental car.	12
+I want to find a rental car from Next Wednesday till March 8th please	12
+I need a rental car in NY at 9:30 am	12
+Could you please help me to find a rental car?	12
+Hey, can you find me a rental car?	12
+I want to go out for a small work for which I need to book a car for rent. Can you help me to find the one for me?	12
+I need to find a room at a four star hotel in Sydney, Australia.	7
+I'm taking a trip soon and need a place to stay. Can you search for hotels for me?	7
+I'm taking a trip, please reserve a one star hotel for me.	7
+A week off is music to my ears. For starters, would you help me get a hotel room with a bit of a view?	7
+I'm taking a trip down to NYC. I'm wondering if you could help me find a hotel room in the area?	7
+I'm looking for a hotel room?	7
+I'd like to look for a room in a hotel. I want a 1 room in a 1 star hotel located in SD.	7
+I need a room in a hotel	7
+I want a hotel room in London.	7
+I will be travelling soon and need to find a place to stay. Find some hotels please.	7
+Find 1 hotel room.	7
+I'm taking a trip, please reserve a hotel room for me.	7
+I'd like to find a room at a 1 star hotel in London, England. Can you help me?	7
+I'm looking for a two star hotel room in Delhi.	7
+Can you find me a hotel room?	7
+Hello. Can you book a hotel room for me?	7
+I want to find 1 room in a hotel which is in Toronto.	7
+I'm looking for a hotel room. I want one room somewhere in Chicago.	7
+I need one room in a hotel	7
+can you find me a hotel room?	7
+I need three hotel rooms.	7
+Find hotel rooms.	7
+Can you help me find a hotel room that offers wifi?	7
+Alright, so I'm going to London, England and I need some help finding a one star hotel. Can you help me out please?	7
+Find me a hotel room.	7
+I would like to find a hotel room.	7
+I need 3 rooms in a one star hotel, can you check for me?	7
+I'm looking for a hotel.	7
+Fine one room in a hotel.	7
+I need to find a hotel in Phoenix, AZ.	7
+Find a two star hotel in London, England.	7
+I need a hotel room reservation. help me find one please.	7
+Find 3 star hotels in Anaheim.	7
+I'm planning a trip, and need to find a hotel room.	7
+Hi, Can you help get me 3 rooms in London Please.	7
+I need you to find me a hotel room.	7
+Find hotels.	7
+I'd like to book a hotel room in Toronto, canada	7
+Can you get a hotel room for me?	7
+I would like to find a hotel room.	7
+I will be travelling soon and need to find a place to stay. Please find a 2 star hotel.	7
+Could you find me a hotel room in paris, france?	7
+I need 3 rooms in a 3 star hotel in Los Angeles	7
+can you book a hotel room for me?	7
+I need to find a hotel room.	7
+one room please	7
+Search me a hotel	7
+Hello. I'd like to find a hotel room to stay at.	7
+I'd like to book a room in a 4 star Hotel in Kuala Lumpur.	7
+I need to find a room in a hotel.	7
+I'm looking for 2 hotel rooms at a 3 star hotel.	7
+Hey, could you help me get a cab?	14
+Would you help call a cab?	14
+I want a shared ride for two people.	14
+Find me a taxi.	14
+Could you assist me in hailing a taxi?	14
+Can you fetch a cab for me?	14
+I would like to book a cab.	14
+Would you find a cab for me?	14
+Get me a cab for 2 will ya? I'm headed to Le Petit Bistro.	14
+Will you reserve a cab for one to Maggie Daley Park ice skating ribbon?	14
+I would like a cab for two people.	14
+Hi, could you get me a cab ride please?	14
+Will you call a cab for 1 to 240 Castro Street?	14
+Help me please to call a cab.	14
+I want a cab.	14
+Will you find a cab?	14
+Could you help me get a cab?	14
+I'd like to get a cab.	14
+Call a cab.	14
+What is the weather forecast in Atherton on 13th of March?	19
+Can you check the weather in Bodega Bay on Wednesday next week?	19
+check next friday	19
+I'd like to know the Newark forecast on the 10th please.	19
+Hi, could you help me check the weather in Foster City please.	19
+I need to check the weather on the 12th of March.	19
+Can you check the weather for me?	19
+I would like to know the weather in Tiburon on 9th of March.	19
+What is the weather in East Palo Alto?	19
+What's the weather going to be like in Pescadero on the 1st of March?	19
+I want to check the weather for Tuesday next week.	19
+Hi there, may I know how is the weather like at ATL?	19
+I want to find weather on the 4th of this month.	19
+I want to know how the weather will be in Duncans Mills for next Thursday.	19
+Whats the weather supposed to be on the 12th?	19
+I want to find out what the weather is.	19
+I'll be spending the day in Cupertino. Can you check what the weather is like there?	19
+Could you check the weather forecast for me in Washington DC.	19
+Check for me the weather on 5th of this month in Santa Rosa.	19
+Hey, what's the weather like in Nairobi?	19
+Hello, Please can you check the weather forecast for 7th of this month?	19
+Please check the weather on 10th of this month	19
+What is the weather supposed to be like on the 10th?	19
+What will it be like outside in San Francisco on the 11th?	19
+I wish to find the weather.	19
+Can you tell me what the weather is expected to be in Paris the 8th of this month.	19
+I want to find out what the weather will be on the 12th.	19
+I want to check the weather in Long Beach, CA on the 2nd.	19
+I'm hoping the weather is ok on the 4th. Can you check the whether in Anaheim on that day?	19
+What's the weather suppose to be for the day after tomorrow in Paris, France?	19
+Can you tell me what the weather is expected to be like on the 11th of March?	19
+Find out what the weather is like in SFO on March 12th.	19
+What will the weather in Anaheim, CA be on the 1st of this month?	19
+I need to see the weather on Friday next week in CDMX	19
+I want to know the weather on the 10th in Long Beach, CA	19
+I need to check the weather in Delhi, India next Monday	19
+Assistance, can you tell me the forecast for Seattle, WA?	19
+I'm hoping the weather is ok for Friday next week. Can you check for me?	19
+I must verify the weather for next Wednesday.	19
+What's my intention for wanting to go to San Diego on the 5th of March during my vacation? No particular reason other than just relax. Would you tell me what weather I'll encounter there?	19
+I will be visiting my sister soonest, can you please check the weather for me?	19
+i have a plan to travel . find the weather condition on march 10th in anaheim.	19
+Whats the weather like?	19
+I need to check weather on the 5th of March.	19
+Hey, how's the weather in SF?	19
+What is the weather going to be like on the 13th of this month?	19
+Hey! Please can you check the weather forecast for Long Beach on 8th of March?	19
+I want to check weather on march 9th in Sacramento.	19
+What is the weather forecast in New York on the 14th of this month?	19
+Can you look up the weather in Washington D.C. for March 7th?	19
+I want to see what the weather will be like on the 1st of this month in Fresno.	19
+What kind of weather can I expect on the 11th of this month?	19
+Hi I have plans today so I'm hoping the weather is ok. Can you check for me?	19
+I want to know the weather in Sydney on next Monday. My mother will go there.	19
+Hello! Please can you tell me how the weather will be for tomorrow?	19
+I would like to check the weather please.	19
+check weather march 3rd fresno	19
+check weather on the 12th	19
+I am going to SD soon. Can you check the weather in there?	19
+Check to weather for the 3rd of this month.	19
+I have a couple trips coming up. Can you check what the weather will be like at Muir Beach on the 10th of this month?	19
+I want to check the weather.	19
+What would the weather be like on the 12th of this month?	19
+I will be visiting my sister on Morgan Hill on the 12th, can you please check the weather for me?	19
+I will be going to Philadelphia and would like to know the weather on March 10th.	19
+Hello, Please can you check the weather forecast for SF on March 11th?	19
+Can you tell me what the weather will be like in Los Angeles on the 12th?	19
+I am very interested in knowing about the weather in Vegas.	19
+What's the weather going to be like this Saturday in Chi-town?	19
+I have a day off and was thinking about going on a day trip. Can you check what the weather is like in Toronto, Ontario?	19
+I must verify the weather in Los Angeles.	19
+Can you check the weather on the 3rd of March	19
+Can you help me check the weather on the 14th in Sydney, NSW	19
+Can you find me something fun to do	4
+Can you find me something cool to do?	4
+can you find me something fun to do on tuesday next week	4
+I want you to find me some interesting things I can do.	4
+Could you assist me in looking for exciting things to do? I enjoy music activities, and I want something on 13th of March.	4
+Hi, are there any interesting events I can take part in?	4
+I want you to find me something interesting to do on March 12th somewhere around Philadelphia. I usually enjoy Games events.	4
+I'm looking for something to do that will arouse my curiosity.	4
+Can you find me something interesting to do?	4
+I'm looking for some rock music in Philly.	4
+Hi, are there any interesting things i can do?	4
+I want you to help me find some interesting things I can do.	4
+Can you help me find something to do in NYC on the 4th?	4
+Can you find me a music event around lax on the 12th	4
+I'd like to find some baseball games please, something in New York City.	4
+I want you to find me something interesting to do around NYC.	4
+Can you help me find a blues music event to go to?	4
+Find for me on 8th of March something interesting to do.	4
+Hi there, could you find some pop music events for me?	4
+I'm looking for interesting things to do. I'm a fan of Baseball.	4
+I would like to find some rock music event on the 14th.	4
+I would like to find a concert on March 10th.	4
+Can you find me something interesting to do?	4
+What about getting me an interesting activity?	4
+Is there anything fun to do in Philadelphia?	4
+Hi, are there any interesting things I can do?	4
+Can you find something interesting for me to do?	4
+Is there something interesting I can do you can recommend to me?	4
+can you find me something fun to do	4
+I need you to find some other interesting things to do	4
+I want to go to concert! I really like Rock music.	4
+I'm looking for fun things to do.	4
+Can you find a pop concert on the 3rd of March?	4
+Can you find something interesting for me to do? I enjoy concert events. I would like to find something around NYC.	4
+Can you help me find fun things to do in Philadelphia?	4
+Could you help me find an event?	4
+I'm looking for something fun to do.	4
+Id like to look for games on the 13th of March.	4
+I want to find something interesting to do please.	4
+Hey, can you find me something fun to do in New York City on the 2nd of March?	4
+I'm looking for something interesting to do around Philly, I like American Football if that helps.	4
+Hello, I was hoping you could help me find something fun to do in the area.	4
+I'm looking for interesting things I can do.	4
+Would you help me to find something interesting to do? Tell me about Sports events.	4
+Hey what's something interesting to do for someone on the 11th if they really love American football?	4
+Could you look for exciting things to do?	4
+Hello. Can you find me a family counselor in Pleasant Hill?	15
+I'm looking for a therapist, specifically a Psychologist in Sebastopol.	15
+Find for me a therapist.I would need a Family Counselor in Fremont.	15
+I'm searching for a therapist in the Walnut Creek area. Can you see who's available out there?	15
+I would like to talk to a therapist but I don't know where to look	15
+I want to look for a therapist.	15
+Can you please find me a therapist? I'm looking for some help.	15
+Hi, could you help me search for a therapist please?	15
+Hello. I'm looking for a therapist. Can you find one for me?	15
+I'm looking for a Psychologist in San Jose.	15
+I am interested in finding a therapist which is a Psychologist.	15
+I'm looking for a good therapist out in Sunnyvale. Can you do a search for me?	15
+I think I am sick, find me a therapist as soon as possible.	15
+Help me find a psychiatrist in Redwood city	15
+Can you search a therapist for me?	15
+Help me I need a Psychologist, I hear green men and they're trying to get me.	15
+I'm looking for a Psychologist in Martinez.	15
+Hi, could you get me a Psychologist in Campbell please?	15
+Will you find a therapist?	15
+Will you find a therapist?	15
+I need a psychiatrist in santa rosa	15
+I'd like to find a therapist please.	15
+Find for me a Therapist in Oakland.I need a Psychologist.	15
+I want you to find a therapist for me which is considered to be a Psychologist.	15
+I need some help locating a therapist. Can you help with this task please?	15
+I am interested in finding a therapist.	15
+Hello! Can you help me find a therapist?	15
+I'm looking for a therapist.	15
+We've been having lots of issues at home lately. Please recommend a good therapist in Los Gatos.	15
+Find me a therapist in Menlo Park.	15
+I'm looking for a therapist.	15
+Can you help me find a therapist? I'd like a Family Counselor in Pleasant Hill.	15
+Find me a Psychologist.	15
+I need to find a therapist in Lafayette. Which one do you recommend?	15
+Hi there, could you help me find a therapist please?	15
+My relationship is on the rocks! Please suggest a therapist we can see.	15
+Hi, i need a help, i am searching for a therapist, could you find a good therapist for me?	15
+Find me a Psychiatrist in Sunnyvale	15
+Can you please find a therapist for me?	15
+I must talk to a family counselor in santa rosa	15
+Find a therapist in Pleasant Hill.	15
+I'm looking for a therapist.	15
+I need to find a psychologist in Los Gatos	15
+I need to locate a therapist please.	15
+I want to look for a Psychologist in Menlo Park.	15
+I want to search for a Therapist and I need your help to find someone suitable to me.	15
+I need help finding a Psychiatrist.	15
+I want to search for a Therapist and I need your help to find someone suitable to me.	15
+Can you help me find a psychiatrist in San Mateo?	15
+We've been having issues lately. Could you recommend a therapist?	15
+Can you help me find a therapist?	15
+I think it's about time for me to face some personal issues, a therapist is required	15
+Find me a Therapist	15
+I fancy watching a movie.	8
+Find me a Suspense movie directed by Kevin Kolsch starring Julia Jenni Karagioules.	8
+I've finally submitted my thesis and I'm free to watch a movie! Please find me one directed by Tim Burton, that has Michael Buffer in it.	8
+I wish to search a movie to watch.	8
+I am interested in Comic movies. Can you find me a movie to watch. I have plenty of time and I need entertainment.	8
+please help me to find movie to watch.	8
+Hi, are there any nice comic movies directed by Harry Elfont and stars Enuka Okuma?	8
+Please help me find a movie to watch.	8
+I want to search for a movie to watch, something that has a Love story.	8
+I wish to search a movie to watch online. Drama movie will be great. I want something with Milton Frome in it.	8
+Find me a movie to watch	8
+I am need of some kind of comic type movies	8
+I am interested in finding a Thriller movie I can watch.	8
+I am searching for a movie to watch.	8
+I need help with searching for a movie.	8
+Find me a movie to see.	8
+Hi, could you help me search for a Funny movie directed by Harry Elfont and staring Claude de Martino?	8
+Please help me find a movie to watch.	8
+I need to find a movie by Harry Elfont. A comic movie with KEvin Bergsma in it.	8
+I want to find a non-fiction jack white movie.	8
+Can you please find me a nice movie to watch?	8
+I wish to search a movie.	8
+I'm free for the next seven days and would like things to do. First, I'm in the mood for watching Drama movies, preferably one with Garth Davis as the director.	8
+I want to watch a movie	8
+Find me movies directed by Brian De Palma.	8
+I want to watch a movie	8
+it's so long since the last time I've watched a movie	8
+Hi. Do you know of any good movies to watch?	8
+I would like to find an adventure movie by Ronald Neame to watch.	8
+I want a movie	8
+I'd like you to find me a cartoon movie to watch, directed by Dean DeBlois, featuring America Ferrera.	8
+Can you please find me a movie to watch?	8
+Please help me find a Drama movies to watch and something with Alexis Bobrinskoy.	8
+I have too much free time on my hands right now and would like to see a movie.	8
+Help me find a movie I can watch.	8
+I wish to search a movie to watch. I am searching for something with Vince Pisani in it.	8
+I'd like to watch a movie please.	8
+I'd like to find a Jeanette Aw movie.	8
+I want a movie	8
+Check savings balance.	1
+I would like to check my balance	1
+Please check the balance of my savings account.	1
+I would like to check my balance.	1
+i want to check my checking account balance	1
+I'd like to verify my account balance.	1
+Check the balance in my savings account	1
+I want to check my savings account.	1
+Check balance.	1
+I would like to check my balance.	1
+Can I please check my checking account balance?	1
+go to checking now	1
+check savings balance	1
+I want to check my savings account balance.	1
+Tell me how much money I have?	1
+I would like to check my balance in my checking account please.	1
+Could you check the balance of my savings account?	1
+What is my savings account balance?	1
+go to savings now	1
+Can you see how much money is in my savings account?	1
+Check my account balance.	1
+How much do I have in checking?	1
+I'd like to know my balance.	1
+I need to know how much is in my checking account. Assistant, please provide me with my balance.	1
+check checking account	1
+I need to check my bank balance.	1
+I need to check my savings account balance.	1
+Hello. How much is currently in my savings account?	1
+Having a week off is music to my hears and I want to splurge a little. But, first, would you pull up my checking account, please, and tell me what's there?	1
+go to savings	1
+I'd like to know how much money is in my bank account, please check my account balance.	1
+I need my checking balance.	1
+I need to check my balance.	1
+I need to check my balance	1
+How much do I have in my savings?	1
+What is my balance?	1
+What is the balance of my checking account?	1
+I need to check my Savings account balance, please.	1
+I want to know how much money I have in my account. Can you check my balance?	1
+Tell me whats my current bank balance.	1
+Can you check my balance?	1
+I need to check my balance.	1
+Check the balance of my savings account.	1
+Check my account balance.	1
+Please check the balance in my savings account.	1
+Hi, could you check my savings account balance please?	1
+I would like to check my account balance.	1
+I'd like to know how much money I have in my bank account. Please check the balance of my savings account.	1
+can you show me my balance?	1
+I want to check the balance in my checking account.	1
+Can you please help me check my bank account balance?	1
+I've got my old college friends visiting and we're looking to go to a show. I'll need three tickets.	4
+I need to make some event reservations. Can you help me out please.	4
+There's an event I want to reserve tickets for.	4
+I want to buy four tickets for the match of Sounders Vs Timbers. The event should be around Seattle, WA.	4
+Help me book event tickets	4
+I want to book tickets to Rams vs cardinals on 10th of this month	4
+I want to reserve a ticket.	4
+I want to get tickets for an event on the 3rd.	4
+I would like to reserve tickets to the Mets Vs Diamondbacks for NYC.	4
+I want 1 tickets for Giants Vs Marlins on 10th of March	4
+I'd like to reserve tickets to an event.	4
+I'd like to get tickets to an event.	4
+3 of us need something to do next Monday.	4
+I want to buy event tickets for something please.	4
+I would like to book tickets to an event.	4
+I need help in booking event tickets	4
+I'm looking for tickets to an event.	4
+I'm going on a short trip by myself. Can you see what events are happening on the 8th of this month in San Fran?	4
+I need to reserve tickets for an event please.	4
+Hey, I'm dying to see Toto. I need 1 ticket to a show of theirs in Philly.	4
+I need event tickets.	4
+Hello. Can you find me some events in Philadelphia?	4
+Get me three event tickets.	4
+I want to reserve 2 tickets to an event in LA.	4
+I am looking to get some tickets for Ben Harper on March 14th. I'm a big fan and I want to go. The event is in New York City.	4
+I would like tickets for an event	4
+I want to see a game in SD! Padres vs Brewers.	4
+I want to book seat for an event.	4
+I want to buy tickets for an event.	4
+I'd like to book two tickets to an event. I'm free on the 10th of this month.	4
+I'm looking to go to a Mariners VS Rays game in Seattle WA. Could you help me get 2 tickets? I want to take a friend with me.	4
+I want 2 tickets for the thee oh sees event in new york	4
+I am looking for 2 tickets to giants vs dodgers on saturday this week	4
+I need to get tickets to the Timbers Vs Earthquakes on March 14th in Portland.	4
+Help me book tickets to an event	4
+I'd like to book 1 ticket for an event happening in the NYC area on the 6th of March.	4
+I need to reserve two event tickets.	4
+I'm looking to buy tickets for an upcoming event.	4
+my intention is to reserve the tickets for an event and it would be better if you could do it for me	4
+I would like to reserve event tickets.	4
+I would like to buy 4 tickets for the Nav With Killy in Philly.	4
+Get me 2 tickets to Jordan Rakei on the 8th of March.	4
+I'd like to order some tickets to an event.	4
+I want to book three tickets for an event near LAX	4
+I want to get tickets to an event.	4
+Please help me event reserve tickets.	4
+I want to reserve tickets in Philadelphia for something on Sunday this week.	4
+I'd like to get 3 tickets to Huskies Vs Warriors for the 7th of March.	4
+Can you secure tickets for me?	4
+I'm looking for tickets for an event on March 9th.	4
+Hello, Please can you find me an apartment?	6
+I want to find an apartment where they allow pets	6
+I need an apartment	6
+I need an apartment	6
+I wish to search for an apartment	6
+I'm looking for an apartment.	6
+Can you help me find a furnished apartment?	6
+Hello, Please can you help me to find a good apartment?	6
+Hi, could you get me an apartment please?	6
+I need an apartment.	6
+I wish to search for an apartment	6
+do you think it is possible for you to find an apartment with 4 bedrooms?	6
+I want an apartment	6
+I want to search for an apartment in Richmond. Can you help to find the suitable one for me?	6
+I need an apartment that has 3 bedrooms.	6
+Hi there, could you help me search for an apartment please.	6
+Can you find me an apartment to live in?	6
+I'd like to search for an apartment.	6
+I want to search for an apartment for which I need your help to find a suitable one.	6
+Help me find an apartment	6
+I need to find an apartment.	6
+I want to find a 3 bedroom apartment in San Jose	6
+I made up my mind, I want an apartment in dixon, I only need one bedroom	6
+I'd like a two bath apartment in Santa Rosa	6
+I need an apartment with two bed rooms in Santa Rosa	6
+Hi there, could you help me search for an apartment with 4 bedrooms in Vacaville please?	6
+Hello, Please can you help me to find a three bath apartment in Mountain View?	6
+find one apartment	6
+My lease is ending soon and I need to find a new apartment.	6
+Find me a one bed one bath apartment please	6
+Hey, I need to move out. Can you help me find an apartment in San Jose with two bathrooms?	6
+I need an apartment and I don't know where to start	6
+Please help me find an apartment.	6
+Hello, I'm looking to find some good apartment. Please can you find one?	6
+I need to start looking for an apartment	6
+I'm relocating for work and need to find a new apartment with 4 bedrooms.	6
+I'm looking for an apartment.	6
+I wanted to find an apartment in Antioch where pets should be allowed.	6
+I am interested in finding an apartment which has four bedrooms.	6
+I am interested in finding an apartment with two bedrooms in San Jose.	6
+I want to find an apartment please	6
+I need to look for an apartment	6
+Im looking for an apartment	6
+I like to search an apartment.	6
+Help me with finding an apartment	6
+Will you find an apartment?	6
+Can you help me to find some good apartment?	6
+Please help me find an apartment in Pittsburg with 3 bed rooms and two baths.	6
+I'm looking for an apartment with two baths.	6
+Hi, could you help me find an apartment with two bedrooms and two baths please?	6
+Find me an apartment	6
+I'm looking to rent a two bedroom apartment.	6
+Can you help me find an apartment?	6
+Will you find an apartment with 1 bed room?	6
+can you find me something fun to do	4
+I want to find something to do later today.	4
+Could you help me find something interesting to do around San Diego? I really like International and Concert events.	4
+I need something fun to do now like American Football.	4
+Can you find me something interesting to do?	4
+I'm looking for something interesting to do.	4
+I love American football. Can you find me something in Los Angeles on the 5th of March?	4
+can you find me something fun to do	4
+Can you help me find something to do? I am looking for something around Vancouver, BC, preferably blues.	4
+Help get me some baseball activity. I'm looking at something on Wednesday next week in Chicago?	4
+I'm going on vacation to Phoenix, AZ and I'm looking for something interesting to do. My preference is Music events, something around the 7th.	4
+Find me some cool stuff to do.	4
+I need some help looking up some Country events happening around the 8th of this month around Rohnert Park. Can you do a quick search for me please.	4
+I would like to find an event?	4
+I am wanting something to entertain me, an activity like a music event on March 10th.	4
+I want a music event in Philadelphia.	4
+pop song concert events	4
+I'm looking for something interesting to do.	4
+I would like to go to a concert around San Diego.	4
+Can you see if there are any Rock events on the 10th?	4
+Would you find me a fun rock concert on the 4th of this month around London, UK?	4
+I'm looking to do something fun, please find me some Baseball Games to go see tomorrow.	4
+Help get me something interesting to do will ya?	4
+Please help me look for some thing nice to do. I prefer Pop.	4
+I'm looking for something interesting to do.	4
+I'm looking for interesting things I can do.	4
+Please help me find something fun to do.	4
+I'd like to do something interesting, please search for activities in the area.	4
+I want to do something fun.	4
+Could you find me something to do?	4
+Get me a fun thing to do.	4
+Can you find something fun to do for me	4
+I'm looking for some interesting things to do.	4
+I'm looking for something interesting to do.	4
+I want something fun to do.	4
+Please find me something interesting to do.	4
+can you find something cool for me to do?	4
+I would like to attend a show that has classical music.	4
+I'm looking for something interesting to do.	4
+I want you to find me some interesting things I can do on March 10th. I usually enjoy Music events.	4
+I'm looking for some fun things to do.	4
+Get me a baseball game or something else friday next week ok?	4
+Could you find me some interesting things to do? I'd like to find a sports game, preferably baseball in chicago.	4
+I want to do something! I like the Blues and want to do something on the 12th of this month.	4
+I need help to find something interesting to do.	4
+Would you find me some cool things to do?	4
+Could you assist me in looking for exciting things to do?	4
+I'm looking for interesting things to do.	4
+I'm looking for something interesting to do, please find an activity for me on the 5th of this month.	4
+Help get me some attractions please.	17
+Is there someplace you can recommend that I can visit, like an attraction of sorts?	17
+Hi! I'm interested in visiting a child-friendly Museum in New York City. Do you have any suggestions?	17
+Hello. Can you find me a free child-friendly attraction in Philadelphia?	17
+Will you find attractions?	17
+Would you find me attractions to visit?	17
+I need some attractions to go see.	17
+I'm looking for something to do, please search for attractions in the area.	17
+Can you show me attractions I can visit.	17
+Can you get me fun attractions?	17
+I would like to see the sites on my trip. Can you give me some recommendations?	17
+I want dome child friendly attractions in Los angeles	17
+can you show me some cool places to visit?	17
+show me attractions	17
+Can you find me some attractions to visit?	17
+Would you find me some attractions I could go to?	17
+Hi, can you help me find some attractions?	17
+I'm looking for attractions to see.	17
+I want you to find me some attractions which I can visit. I would like an attraction which welcomes children. I do not mind the type of the attraction.	17
+I'd like to visit an attraction.	17
+Hi, are there any nice attractions which I can visit?	17
+Could you find me some attractions in london, england?	17
+show me some attractions to see	17
+Would you show me museum attractions without an entry fee? I need something child friendly.	17
+Can you find me some place to visit?	17
+Can you find me a child-friendly attraction in New York City without an entry fee?	17
+Find me some events to go to.	17
+show some places	17
+I want you to find me some attractions I can visit.	17
+Get me some good activities please.	17
+I would like to visit a shopping district.	17
+Hey, how are you doing. Can you help me find a nice Sports Venue in NY?	17
+I need help finding attractions to visit, around Phoenix.	17
+Show me some attractions to visit in the Performing arts venue.	17
+Please show me attractions to visit without an entry fee.	17
+I want you to find me some attractions in Portland which I can visit.	17
+I want to find some attractions to see	17
+I want to look for something interesting to do. What places are there to visit?	17
+Can you find me some attractions I can visit? What I am looking for is a Place of Worship.	17
+Can you help me find attractions to visit?	17
+Is there any attractions in LA you can find without an entry fee?	17
+Would you find me attractions in New York City? I need something child friendly.	17
+I'm visiting Sydney, NSW and want to find some attractions to visit. Can you see if there is a good child-friendly nature preserve I could go to?	17
+Show me some attractions to see	17
+please find me a historical spot in phoenix, az	17
+I'm looking for some attractions to visit.	17
+show different attractions	17
+Could you find me some historical landmark to visit?	17
+Show me attractions to visit.	17
+Hello. Can you find me an interesting place to visit?	17
+Could you find me some attractions in London, UK?	17
+I am looking for something fun to do that is child-friendly, an attraction like a playground, any recommendations?	17
+I want to visit a park	17
+find some attractions	17
+I'm interested in finding attractions to visit? I am particularly interested in a Historical Landmark.	17
+show me some attractions	17
+can you show me some cool places to visit?	17
+Hi, are there any nice attractions I can visit at a Museum in Paris?	17
+can you find me some attraction to go to	17
+looking for wildlife spot	17
+Hello, I'd like to find a museum in Philly that's good for kids.	17
+Find me some events to see.	17
+Can you find me some child friendly attractions?	17
+Any good tourist traps worth seeing?	17
+Can you help me find attractions to visit?	17
+find some attractions	17
+Find me some attractions	17
+I'm looking for attraction I can go to.	17
+I want to find something to visit. What interesting attractions are there?	17
+Can you suggest some attractions to see in London?	17
+Can you find me a place I can visit? Make sure it's free.	17
+I'd like a Park in SD, if possible without entry fee	17
+Give me some attractions I should visit.	17
+Can you show me available attraction? I want to something child-friendly. Anything is okay.	17
+Can you get me a fun place to visit?	17
+I want to go somewhere any ideas?	17
+Can you tell me about some attractions in Atlanta, GA that are good for kids?	17
+Can you find me some attractions without any entry fee?	17
+I'm looking for some attractions to visit.	17
+Can you find me a place to visit?	17
+I'm looking for attractions to see.	17
+Please show me some attractions to visit.	17
+I'm going on a short trip with my boyfriend. Can you look up attractions for us to see?	17
+Can you tell me about attractions, such as place of interest, that I can go to? I also want it to be good for kids.	17
+I want to find some attractions that I can visit.	17
+I want to find some attractions I can visit.	17
+I would like to find a historical spot in London, UK that is kid appropriate.	17
+can you find me somewhere fun to go	17
+show some attractions	17
+Can you show me some attractions to visit in LAX? I'm most interested in a museum.	17
+I'm interested in visiting attractions that are kid friendly.	17
+I want to go explore something new, help me find some attractions please.	17
+Help me look for attractions I can go to in Chicago. I'm looking for a museum that kids can go to.	17
+I want you to find me some attractions I can visit. I am interested in attractions which do not have an entry fee, and are located in Las Vegas	17
