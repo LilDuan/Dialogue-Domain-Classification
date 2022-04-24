@@ -1,15 +1,7 @@
 # encoding = utf8
-import os
-import re
-from collections import defaultdict
 
-import jieba
-import nltk
-from tqdm import tqdm
-from zhon.hanzi import punctuation
-
-from sklearn import metrics
 from sklearn.metrics import accuracy_score, precision_score, f1_score
+from tqdm import tqdm
 
 from Models.BASE import config_base
 from utils import *
@@ -21,20 +13,23 @@ class config_Bayes(config_base):
 
         super().__init__(dataset)
 
-
         self.LM_type = 'bigram'
         self.BOS, self.EOS = "BOS", "EOS"
 
-        self.default_token_prob = 1 # 遇到未注册词时的默认概率
+        self.default_token_prob = 1  # 遇到未注册词时的默认概率
         self.min_token_prob = 0.01  # 忽略概率小于0.01的token
         self.default_zoom_scale = 0.01
 
-        #暂存预测和真实结果，用于模型评估
+        # 暂存预测和真实结果，用于模型评估
         self.pred_path = f'./y_pred/{self.dataset}.txt'
         self.true_path = f'./y-true/{self.dataset}.txt'
 
+        # 用于存放评价指标
+        self.evaluation_path = f'./evaluation.txt'
 
-
+        self.stop_words_zh = [x.strip() for x in load_file(r'../../data/stopwords_zh.txt')]
+        self.stop_words_en = [x.strip() for x in load_file(r'../../data/stopwords_en.txt')]
+        self.stop_words_auto = self.stop_words_en if self.datasets[dataset] == 'en' else self.stop_words_zh
 
     def get_LM_path(self, label):
         """
@@ -45,11 +40,10 @@ class config_Bayes(config_base):
         Returns:目录地址
 
         """
-        if re.match(r'\d+',label):
-            return  os.path.join('.\\', 'LM', self.dataset, f'label_{label}.txt')
+        if re.match(r'\d+', label):
+            return os.path.join('.\\', 'LM', self.dataset, f'label_{label}.txt')
         else:
             return os.path.join('.\\', 'LM', self.dataset, f'{label}_vocab.txt')
-
 
 
 class Model(object):
@@ -61,17 +55,12 @@ class Model(object):
             vocab_overall:  用什么数据构建整体语料库
         """
 
-        self.default_token_prob = config.default_token_prob # 遇到未注册词时的默认概率
-        self.min_token_prob = config.min_token_prob   # 忽略概率小于0.01的token
+        self.default_token_prob = config.default_token_prob  # 遇到未注册词时的默认概率
+        self.min_token_prob = config.min_token_prob  # 忽略概率小于0.01的token
 
         self.label_docs_dict, self.label_probs_dict = get_label_docs_probs(config)
         self.tokenizer = config.tokenizer
         self.vocab_overall = vocab_overall  # 基于整个语料库的词典
-
-
-
-
-
 
     def predict(self, config, sentence):
         """
@@ -88,9 +77,8 @@ class Model(object):
         min_token_prob = self.min_token_prob
         LM_type = config.LM_type
 
-
-        label_probs_dict = self.label_probs_dict    # 每个类出现的概率
-        label_docs_dict = self.label_docs_dict   # 每个类的文本
+        label_probs_dict = self.label_probs_dict  # 每个类出现的概率
+        label_docs_dict = self.label_docs_dict  # 每个类的文本
 
         # 存储sentence构建的语言模型
         sentence_tokens = process_bigram(self.tokenizer(sentence), config.language) \
@@ -112,7 +100,7 @@ class Model(object):
             label_tokens_count = 0  # 统计当前类别的总词数
 
             for doc in docs:
-                doc = doc.replace(' ','')
+                doc = doc.replace(' ', '')
                 if LM_type == 'bigram':
                     # 按照二元语法处理
                     label_tokens = process_bigram(self.tokenizer(doc), config.language)
@@ -133,14 +121,13 @@ class Model(object):
                     value = item[0]
                     freq = item[1]  # 这个类别中token出现的次数
 
-
                     if value == token:
-                        likelihood_list[idx] += (likelihood_formula_laplace(freq, label_tokens_count, len(vocab_overall)))
+                        likelihood_list[idx] += (
+                            likelihood_formula_laplace(freq, label_tokens_count, len(vocab_overall)))
 
                         # print(f"\n匹配成功的token: \"{item}\"\t"
                         #       f"当前位于类别 {label}\t"
                         #       f"类别{label}的token_num = {label_tokens_count}\t 当前value的似然概率：{likelihood_list[idx]}", end = '\t')
-
 
             # 句子整体的的likelihood
             for prob in likelihood_list:
@@ -157,8 +144,6 @@ class Model(object):
 
         y = predictions_sorted[0]
         return y[0]
-
-
 
     def evaluate(self, config):
         """
@@ -190,7 +175,6 @@ class Model(object):
             f_true.write(label + '\n')
             f_pred.write(pred + '\n')
 
-
         accuracy = accuracy_score(y_true, y_pred)
         precision = precision_score(y_true, y_pred)
         f1 = f1_score(y_true, y_pred)
@@ -199,8 +183,6 @@ class Model(object):
         f_true.close()
 
         return accuracy, precision, f1
-
-        
 
 
 def bayes_formula(prior, _likelihood):
