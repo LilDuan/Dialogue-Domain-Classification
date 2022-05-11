@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chinese-Text-Classification-Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Chinese-Word-Vectors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Models/outer/Chinese-Text-Classification-Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RMDL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/embedding/Chinese-Word-Vectors" vcs="Git" />
   </component>
 </project>
